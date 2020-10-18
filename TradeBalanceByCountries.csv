@@ -3,7 +3,7 @@ Rank,Country,Value
 2,Germany,297000
 3,Ireland,129070
 4,Russia,124100
-5,"Korea, South",119900
+5,South Korea,119900
 6,Saudi Arabia,94500
 7,Netherlands,91000
 8,United Arab Emirates,73400
@@ -68,8 +68,9 @@ Rank,Country,Value
 67,Solomon Islands,52
 68,Guinea-Bissau,40
 69,Northern Mariana Islands,21
+70, Central African Rep. ,0
 70,Tokelau,-1
-71,"Saint Helena, Ascension and Tristan da Cunha",-2
+71,Saint Helena, Ascension and Tristan da Cunha,-2
 72,Niue,-9
 73,Nauru,-18
 74,Montserrat,-28
@@ -85,7 +86,7 @@ Rank,Country,Value
 84,Marshall Islands,-134
 85,Tuvalu,-136
 86,Dominica,-151
-87,"Micronesia, Federated States of",-170
+87,Micronesia,-170
 88,Cameroon,-176
 89,Comoros,-176
 90,American Samoa,-187
@@ -121,7 +122,7 @@ Rank,Country,Value
 120,Lesotho,-687
 121,Benin,-688
 122,Sierra Leone,-727
-123,"Korea, North",-767
+123,North Korea,-767
 124,Madagascar,-830
 125,Mali,-855
 126,Aruba,-919
