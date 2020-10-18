@@ -91,9 +91,9 @@ Rank,Country,Value
 90,American Samoa,-187
 91,Saint Kitts and Nevis,-206
 92,Vanuatu,-206
-93,"Gambia, The",-206
+93,Gambia,-206
 94,Saint Lucia,-226
-95,"Congo, Democratic Republic of the",-247
+95,Dem. Rep. Congo,-247
 96,Mozambique,-248
 97,Saint Vincent and the Grenadines,-260
 98,Central African Republic,-262
@@ -151,7 +151,7 @@ Rank,Country,Value
 150,Belarus,-2000
 151,Namibia,-2136
 152,Macedonia,-2170
-153,"Bahamas, The",-2170
+153,Bahamas,-2170
 154,New Caledonia,-2193
 155,Montenegro,-2196
 156,Mauritius,-2216
