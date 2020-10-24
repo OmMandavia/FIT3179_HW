@@ -1,0 +1,50 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Global Trade Balance by countries in (US$ Millions)",
+  "width": 800,
+  "height": 600,
+  "projection": {"type": "equirectangular"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/OmMandavia/FIT3179_WK9/main/EqualEarth.json",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/OmMandavia/FIT3179_WK9/main/TradeBalanceByCountries.csv"
+        },
+        "key": "Country",
+        "fields": ["Value"]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Value",
+      "type": "quantitative",
+      "scale": {
+        "domain": [-776000, -535600, -295200, -54800, 185600, 426000],
+        "range": [
+          "#b35806",
+          "#e08214",
+          "#fdb863",
+          "#fee0b6",
+          "#b2abd2",
+          "#5e3c99"
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {
+        "field": "Value",
+        "type": "quantitative",
+        "title": "Balance in (US$ Millions)"
+      }
+    ]
+  },
+  "config": {}
+}
