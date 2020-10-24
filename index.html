@@ -87,8 +87,8 @@
     <div class="pure-g">
         <div class="pure-u-1-4">
           <div class="description description-left">
-            <h2>Global Trade Balance (In US$ Millions)</h2>
-            <p> This visualisation shows us the trade balance of every country in the world with diverging set of colours. Trade balance of a country is obtained by subtracting the total value of imports with the total value of exports. Negative balance means a country is in deficit & positive means that it has surplus. Where does your country lie?</p>
+            <h2>World Export Value (in US$ Millions) over 2001 to 2019</h2>
+            <p> From the line chart on the right,  It is evident that globalisation has been increasing over time. Generally increasing, The global export value has seen some short term downfalls mostly in the two annotated years. In 2008, A global recession occured which lead to decresed consumer spending and In 2018, US$ gained value against all major currencies causing a depreciation of global export value as it's measured in US$.</p>
           </div>
         </div>
         <div class="pure-u-3-4">
@@ -108,12 +108,13 @@
    
 <script type="text/javascript">
   var specVis1 = "./tradeBalanceChart.json";
+  var specVis2 = "./worldExportValueTemporalLineChart.json";
 
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-   vegaEmbed('#vis2', specVis1, {"actions": false}).then(function(result) {
+   vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
