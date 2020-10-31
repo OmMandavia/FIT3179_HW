@@ -1,0 +1,7250 @@
+[
+  {
+    "id": 1,
+    "parent": "",
+    "Category": "world",
+    "Value": ""
+  },
+  {
+    "id": 2,
+    "parent": 1,
+    "Category": "Animal Products",
+    "Value": ""
+  },
+  {
+    "id": 3,
+    "parent": 1,
+    "Category": "Vegetable Products",
+    "Value": ""
+  },
+  {
+    "id": 4,
+    "parent": 1,
+    "Category": "Animal and Vegetable Bi-Products",
+    "Value": ""
+  },
+  {
+    "id": 5,
+    "parent": 1,
+    "Category": "Foodstuffs",
+    "Value": ""
+  },
+  {
+    "id": 6,
+    "parent": 1,
+    "Category": "Mineral Product",
+    "Value": ""
+  },
+  {
+    "id": 7,
+    "parent": 1,
+    "Category": "Chemical Products",
+    "Value": ""
+  },
+  {
+    "id": 8,
+    "parent": 1,
+    "Category": "Plastics and Rubbers",
+    "Value": ""
+  },
+  {
+    "id": 9,
+    "parent": 1,
+    "Category": "Animal Hides",
+    "Value": ""
+  },
+  {
+    "id": 10,
+    "parent": 1,
+    "Category": "Wood Products",
+    "Value": ""
+  },
+  {
+    "id": 11,
+    "parent": 1,
+    "Category": "Paper Goods",
+    "Value": ""
+  },
+  {
+    "id": 12,
+    "parent": 1,
+    "Category": "Textiles",
+    "Value": ""
+  },
+  {
+    "id": 13,
+    "parent": 1,
+    "Category": "Footwear and Headwear",
+    "Value": ""
+  },
+  {
+    "id": 14,
+    "parent": 1,
+    "Category": "Stone And Glass",
+    "Value": ""
+  },
+  {
+    "id": 15,
+    "parent": 1,
+    "Category": "Precious Metals",
+    "Value": ""
+  },
+  {
+    "id": 16,
+    "parent": 1,
+    "Category": "Metals",
+    "Value": ""
+  },
+  {
+    "id": 17,
+    "parent": 1,
+    "Category": "Machines",
+    "Value": ""
+  },
+  {
+    "id": 18,
+    "parent": 1,
+    "Category": "Transportation",
+    "Value": ""
+  },
+  {
+    "id": 19,
+    "parent": 1,
+    "Category": "Instruments",
+    "Value": ""
+  },
+  {
+    "id": 20,
+    "parent": 1,
+    "Category": "Weapons",
+    "Value": ""
+  },
+  {
+    "id": 21,
+    "parent": 1,
+    "Category": "Miscellaneous",
+    "Value": ""
+  },
+  {
+    "id": 22,
+    "parent": 1,
+    "Category": "Arts and Antiques",
+    "Value": ""
+  },
+  {
+    "id": 23,
+    "parent": 1,
+    "Category": "Unspecified",
+    "Value": ""
+  },
+  {
+    "id": 24,
+    "parent": 2,
+    "Category": "Concentrated Milk",
+    "Value": 1004801
+  },
+  {
+    "id": 25,
+    "parent": 2,
+    "Category": "Fermented Milk Products",
+    "Value": 252129
+  },
+  {
+    "id": 26,
+    "parent": 2,
+    "Category": "Whey",
+    "Value": 47160
+  },
+  {
+    "id": 27,
+    "parent": 2,
+    "Category": "Butter",
+    "Value": 910472
+  },
+  {
+    "id": 28,
+    "parent": 2,
+    "Category": "Cheese",
+    "Value": 102527
+  },
+  {
+    "id": 29,
+    "parent": 2,
+    "Category": "Eggs",
+    "Value": 13113350
+  },
+  {
+    "id": 30,
+    "parent": 2,
+    "Category": "Processed Egg Products",
+    "Value": 2173328
+  },
+  {
+    "id": 31,
+    "parent": 2,
+    "Category": "Honey",
+    "Value": 28518055
+  },
+  {
+    "id": 32,
+    "parent": 2,
+    "Category": "Other Edible Animal Products",
+    "Value": 9558944
+  },
+  {
+    "id": 33,
+    "parent": 2,
+    "Category": "Pig Hair",
+    "Value": 19443570
+  },
+  {
+    "id": 34,
+    "parent": 2,
+    "Category": "Animal Organs",
+    "Value": 132204438
+  },
+  {
+    "id": 35,
+    "parent": 2,
+    "Category": "Bird Feathers and Skins",
+    "Value": 52805975
+  },
+  {
+    "id": 36,
+    "parent": 2,
+    "Category": "Raw Bones",
+    "Value": 2410556
+  },
+  {
+    "id": 37,
+    "parent": 2,
+    "Category": "Coral and Shells",
+    "Value": 601429
+  },
+  {
+    "id": 38,
+    "parent": 2,
+    "Category": "Pharmaceutical Animal Products",
+    "Value": 187235
+  },
+  {
+    "id": 39,
+    "parent": 2,
+    "Category": "Other Inedible Animal Products",
+    "Value": 8185857
+  },
+  {
+    "id": 40,
+    "parent": 3,
+    "Category": "Bulbs and Roots",
+    "Value": 636094
+  },
+  {
+    "id": 41,
+    "parent": 3,
+    "Category": "Other Live Plants",
+    "Value": 18247070
+  },
+  {
+    "id": 42,
+    "parent": 3,
+    "Category": "Cut Flowers",
+    "Value": 11234109
+  },
+  {
+    "id": 43,
+    "parent": 3,
+    "Category": "Foliage",
+    "Value": 7277216
+  },
+  {
+    "id": 44,
+    "parent": 3,
+    "Category": "Potatoes",
+    "Value": 34011278
+  },
+  {
+    "id": 45,
+    "parent": 3,
+    "Category": "Tomatoes",
+    "Value": 33655110
+  },
+  {
+    "id": 46,
+    "parent": 3,
+    "Category": "Onions",
+    "Value": 223618419
+  },
+  {
+    "id": 47,
+    "parent": 3,
+    "Category": "Cabbages",
+    "Value": 58237285
+  },
+  {
+    "id": 48,
+    "parent": 3,
+    "Category": "Lettuce",
+    "Value": 13474302
+  },
+  {
+    "id": 49,
+    "parent": 3,
+    "Category": "Root Vegetables",
+    "Value": 45593470
+  },
+  {
+    "id": 50,
+    "parent": 3,
+    "Category": "Cucumbers",
+    "Value": 9195398
+  },
+  {
+    "id": 51,
+    "parent": 3,
+    "Category": "Legumes",
+    "Value": 2024624
+  },
+  {
+    "id": 52,
+    "parent": 3,
+    "Category": "Other Vegetables",
+    "Value": 98471384
+  },
+  {
+    "id": 53,
+    "parent": 3,
+    "Category": "Frozen Vegetables",
+    "Value": 105586359
+  },
+  {
+    "id": 54,
+    "parent": 3,
+    "Category": "Preserved Vegetables",
+    "Value": 17239620
+  },
+  {
+    "id": 55,
+    "parent": 3,
+    "Category": "Dried Vegetables",
+    "Value": 365564396
+  },
+  {
+    "id": 56,
+    "parent": 3,
+    "Category": "Dried Legumes",
+    "Value": 58453777
+  },
+  {
+    "id": 57,
+    "parent": 3,
+    "Category": "Cassava",
+    "Value": 24788925
+  },
+  {
+    "id": 58,
+    "parent": 3,
+    "Category": "Coconuts, Brazil Nuts, and Cashews",
+    "Value": 17113
+  },
+  {
+    "id": 59,
+    "parent": 3,
+    "Category": "Other Nuts",
+    "Value": 56097903
+  },
+  {
+    "id": 60,
+    "parent": 3,
+    "Category": "Bananas",
+    "Value": 2423453
+  },
+  {
+    "id": 61,
+    "parent": 3,
+    "Category": "Tropical Fruits",
+    "Value": 4733771
+  },
+  {
+    "id": 62,
+    "parent": 3,
+    "Category": "Citrus",
+    "Value": 259595999
+  },
+  {
+    "id": 63,
+    "parent": 3,
+    "Category": "Grapes",
+    "Value": 90156543
+  },
+  {
+    "id": 64,
+    "parent": 3,
+    "Category": "Melons",
+    "Value": 6788846
+  },
+  {
+    "id": 65,
+    "parent": 3,
+    "Category": "Apples and Pears",
+    "Value": 249594447
+  },
+  {
+    "id": 66,
+    "parent": 3,
+    "Category": "Pitted Fruits",
+    "Value": 321900
+  },
+  {
+    "id": 67,
+    "parent": 3,
+    "Category": "Other Fruits",
+    "Value": 26350793
+  },
+  {
+    "id": 68,
+    "parent": 3,
+    "Category": "Frozen Fruits and Nuts",
+    "Value": 19041731
+  },
+  {
+    "id": 69,
+    "parent": 3,
+    "Category": "Preserved Fruits and Nuts",
+    "Value": 9088688
+  },
+  {
+    "id": 70,
+    "parent": 3,
+    "Category": "Dried Fruits",
+    "Value": 15047691
+  },
+  {
+    "id": 71,
+    "parent": 3,
+    "Category": "Citrus and Melon Peels",
+    "Value": 311029
+  },
+  {
+    "id": 72,
+    "parent": 3,
+    "Category": "Coffee",
+    "Value": 5224095
+  },
+  {
+    "id": 73,
+    "parent": 3,
+    "Category": "Tea",
+    "Value": 158592621
+  },
+  {
+    "id": 74,
+    "parent": 3,
+    "Category": "Pepper",
+    "Value": 56308075
+  },
+  {
+    "id": 75,
+    "parent": 3,
+    "Category": "Cinnamon",
+    "Value": 9884390
+  },
+  {
+    "id": 76,
+    "parent": 3,
+    "Category": "Cloves",
+    "Value": 74795
+  },
+  {
+    "id": 77,
+    "parent": 3,
+    "Category": "Nutmeg, mace and cardamons",
+    "Value": 139022
+  },
+  {
+    "id": 78,
+    "parent": 3,
+    "Category": "Spice Seeds",
+    "Value": 3974157
+  },
+  {
+    "id": 79,
+    "parent": 3,
+    "Category": "Spices",
+    "Value": 42293900
+  },
+  {
+    "id": 80,
+    "parent": 3,
+    "Category": "Wheat",
+    "Value": 3845533
+  },
+  {
+    "id": 81,
+    "parent": 3,
+    "Category": "Barley",
+    "Value": 18072
+  },
+  {
+    "id": 82,
+    "parent": 3,
+    "Category": "Oats",
+    "Value": 18000
+  },
+  {
+    "id": 83,
+    "parent": 3,
+    "Category": "Corn",
+    "Value": 2207099
+  },
+  {
+    "id": 84,
+    "parent": 3,
+    "Category": "Rice",
+    "Value": 51803723
+  },
+  {
+    "id": 85,
+    "parent": 3,
+    "Category": "Sorghum",
+    "Value": 3794571
+  },
+  {
+    "id": 86,
+    "parent": 3,
+    "Category": "Buckwheat",
+    "Value": 2841204
+  },
+  {
+    "id": 87,
+    "parent": 3,
+    "Category": "Wheat Flours",
+    "Value": 14271850
+  },
+  {
+    "id": 88,
+    "parent": 3,
+    "Category": "Cereal Flours",
+    "Value": 89897
+  },
+  {
+    "id": 89,
+    "parent": 3,
+    "Category": "Cereal Meal and Pellets",
+    "Value": 49692
+  },
+  {
+    "id": 90,
+    "parent": 3,
+    "Category": "Processed Cereals",
+    "Value": 3367923
+  },
+  {
+    "id": 91,
+    "parent": 3,
+    "Category": "Potato Flours",
+    "Value": 53430
+  },
+  {
+    "id": 92,
+    "parent": 3,
+    "Category": "Legume Flours",
+    "Value": 4205691
+  },
+  {
+    "id": 93,
+    "parent": 3,
+    "Category": "Malt",
+    "Value": 12064657
+  },
+  {
+    "id": 94,
+    "parent": 3,
+    "Category": "Starches",
+    "Value": 15409043
+  },
+  {
+    "id": 95,
+    "parent": 3,
+    "Category": "Wheat Gluten",
+    "Value": 13767325
+  },
+  {
+    "id": 96,
+    "parent": 3,
+    "Category": "Soybeans",
+    "Value": 10798531
+  },
+  {
+    "id": 97,
+    "parent": 3,
+    "Category": "Ground Nuts",
+    "Value": 28391070
+  },
+  {
+    "id": 98,
+    "parent": 3,
+    "Category": "Copra",
+    "Value": 685
+  },
+  {
+    "id": 99,
+    "parent": 3,
+    "Category": "Linseed",
+    "Value": 485663
+  },
+  {
+    "id": 100,
+    "parent": 3,
+    "Category": "Sunflower Seeds",
+    "Value": 75087437
+  },
+  {
+    "id": 101,
+    "parent": 3,
+    "Category": "Other Oily Seeds",
+    "Value": 36374018
+  },
+  {
+    "id": 102,
+    "parent": 3,
+    "Category": "Oil Seed Flower",
+    "Value": 5527866
+  },
+  {
+    "id": 103,
+    "parent": 3,
+    "Category": "Sowing Seeds",
+    "Value": 25242834
+  },
+  {
+    "id": 104,
+    "parent": 3,
+    "Category": "Hops",
+    "Value": 398181
+  },
+  {
+    "id": 105,
+    "parent": 3,
+    "Category": "Perfume Plants",
+    "Value": 112155646
+  },
+  {
+    "id": 106,
+    "parent": 3,
+    "Category": "Locust beans, seaweed, sugar beet, cane, for food",
+    "Value": 51454858
+  },
+  {
+    "id": 107,
+    "parent": 3,
+    "Category": "Cereal Straws",
+    "Value": 547389
+  },
+  {
+    "id": 108,
+    "parent": 3,
+    "Category": "Forage Crops",
+    "Value": 110368
+  },
+  {
+    "id": 109,
+    "parent": 3,
+    "Category": "Insect Resins",
+    "Value": 415917
+  },
+  {
+    "id": 110,
+    "parent": 3,
+    "Category": "Vegetable Saps",
+    "Value": 154157368
+  },
+  {
+    "id": 111,
+    "parent": 3,
+    "Category": "Vegetable Plaiting Materials",
+    "Value": 7849846
+  },
+  {
+    "id": 112,
+    "parent": 3,
+    "Category": "Other Vegetable Products",
+    "Value": 6116773
+  },
+  {
+    "id": 113,
+    "parent": 4,
+    "Category": "Pig and Poultry Fat",
+    "Value": 82316
+  },
+  {
+    "id": 114,
+    "parent": 4,
+    "Category": "Bovine, Sheep, and Goat Fat",
+    "Value": 92579
+  },
+  {
+    "id": 115,
+    "parent": 4,
+    "Category": "Fish Oil",
+    "Value": 11474373
+  },
+  {
+    "id": 116,
+    "parent": 4,
+    "Category": "Wool Grease",
+    "Value": 4153488
+  },
+  {
+    "id": 117,
+    "parent": 4,
+    "Category": "Other Animal Fats",
+    "Value": 226499
+  },
+  {
+    "id": 118,
+    "parent": 4,
+    "Category": "Soybean Oil",
+    "Value": 15817860
+  },
+  {
+    "id": 119,
+    "parent": 4,
+    "Category": "Ground Nut Oil",
+    "Value": 2305142
+  },
+  {
+    "id": 120,
+    "parent": 4,
+    "Category": "Pure Olive Oil",
+    "Value": 54599
+  },
+  {
+    "id": 121,
+    "parent": 4,
+    "Category": "Olive Oil",
+    "Value": 3022
+  },
+  {
+    "id": 122,
+    "parent": 4,
+    "Category": "Palm Oil",
+    "Value": 2417901
+  },
+  {
+    "id": 123,
+    "parent": 4,
+    "Category": "Seed Oils",
+    "Value": 527411
+  },
+  {
+    "id": 124,
+    "parent": 4,
+    "Category": "Coconut Oil",
+    "Value": 9080
+  },
+  {
+    "id": 125,
+    "parent": 4,
+    "Category": "Rapeseed Oil",
+    "Value": 2258980
+  },
+  {
+    "id": 126,
+    "parent": 4,
+    "Category": "Other Pure Vegetable Oils",
+    "Value": 9434308
+  },
+  {
+    "id": 127,
+    "parent": 4,
+    "Category": "Other Vegetable Oils",
+    "Value": 1547590
+  },
+  {
+    "id": 128,
+    "parent": 4,
+    "Category": "Margarine",
+    "Value": 3126719
+  },
+  {
+    "id": 129,
+    "parent": 4,
+    "Category": "Inedible Fats and Oils",
+    "Value": 32400286
+  },
+  {
+    "id": 130,
+    "parent": 4,
+    "Category": "Waxes",
+    "Value": 5734112
+  },
+  {
+    "id": 131,
+    "parent": 4,
+    "Category": "Fat and Oil Residues",
+    "Value": 144793
+  },
+  {
+    "id": 132,
+    "parent": 5,
+    "Category": "Sausages",
+    "Value": 33747189
+  },
+  {
+    "id": 133,
+    "parent": 5,
+    "Category": "Other Prepared Meat",
+    "Value": 152576005
+  },
+  {
+    "id": 134,
+    "parent": 5,
+    "Category": "Animal Extracts",
+    "Value": 1652618
+  },
+  {
+    "id": 135,
+    "parent": 5,
+    "Category": "Processed Fish",
+    "Value": 321688067
+  },
+  {
+    "id": 136,
+    "parent": 5,
+    "Category": "Processed Crustaceans",
+    "Value": 426254994
+  },
+  {
+    "id": 137,
+    "parent": 5,
+    "Category": "Raw Sugar",
+    "Value": 7958586
+  },
+  {
+    "id": 138,
+    "parent": 5,
+    "Category": "Other Sugars",
+    "Value": 63820734
+  },
+  {
+    "id": 139,
+    "parent": 5,
+    "Category": "Molasses",
+    "Value": 15160
+  },
+  {
+    "id": 140,
+    "parent": 5,
+    "Category": "Confectionery Sugar",
+    "Value": 91396081
+  },
+  {
+    "id": 141,
+    "parent": 5,
+    "Category": "Cocoa Paste",
+    "Value": 629839
+  },
+  {
+    "id": 142,
+    "parent": 5,
+    "Category": "Cocoa Butter",
+    "Value": 1805901
+  },
+  {
+    "id": 143,
+    "parent": 5,
+    "Category": "Cocoa Powder",
+    "Value": 837987
+  },
+  {
+    "id": 144,
+    "parent": 5,
+    "Category": "Chocolate",
+    "Value": 43227657
+  },
+  {
+    "id": 145,
+    "parent": 5,
+    "Category": "Malt Extract",
+    "Value": 16859806
+  },
+  {
+    "id": 146,
+    "parent": 5,
+    "Category": "Pasta",
+    "Value": 87392548
+  },
+  {
+    "id": 147,
+    "parent": 5,
+    "Category": "Tapioca",
+    "Value": 1175621
+  },
+  {
+    "id": 148,
+    "parent": 5,
+    "Category": "Prepared Cereals",
+    "Value": 24651949
+  },
+  {
+    "id": 149,
+    "parent": 5,
+    "Category": "Baked Goods",
+    "Value": 36274600
+  },
+  {
+    "id": 150,
+    "parent": 5,
+    "Category": "Pickled Foods",
+    "Value": 13553664
+  },
+  {
+    "id": 151,
+    "parent": 5,
+    "Category": "Processed Tomatoes",
+    "Value": 73840469
+  },
+  {
+    "id": 152,
+    "parent": 5,
+    "Category": "Processed Mushrooms",
+    "Value": 63133092
+  },
+  {
+    "id": 153,
+    "parent": 5,
+    "Category": "Other Frozen Vegetables",
+    "Value": 32580648
+  },
+  {
+    "id": 154,
+    "parent": 5,
+    "Category": "Other Processed Vegetables",
+    "Value": 205015470
+  },
+  {
+    "id": 155,
+    "parent": 5,
+    "Category": "Sugar Preserved Foods",
+    "Value": 24049695
+  },
+  {
+    "id": 156,
+    "parent": 5,
+    "Category": "Jams",
+    "Value": 7169322
+  },
+  {
+    "id": 157,
+    "parent": 5,
+    "Category": "Other Processed Fruits and Nuts",
+    "Value": 281555189
+  },
+  {
+    "id": 158,
+    "parent": 5,
+    "Category": "Fruit Juice",
+    "Value": 102002369
+  },
+  {
+    "id": 159,
+    "parent": 5,
+    "Category": "Coffee and Tea Extracts",
+    "Value": 19839128
+  },
+  {
+    "id": 160,
+    "parent": 5,
+    "Category": "Yeast",
+    "Value": 25318438
+  },
+  {
+    "id": 161,
+    "parent": 5,
+    "Category": "Sauces and Seasonings",
+    "Value": 101210473
+  },
+  {
+    "id": 162,
+    "parent": 5,
+    "Category": "Soups and Broths",
+    "Value": 6727467
+  },
+  {
+    "id": 163,
+    "parent": 5,
+    "Category": "Ice Cream",
+    "Value": 6389303
+  },
+  {
+    "id": 164,
+    "parent": 5,
+    "Category": "Other Edible Preparations",
+    "Value": 153734923
+  },
+  {
+    "id": 165,
+    "parent": 5,
+    "Category": "Water",
+    "Value": 64235809
+  },
+  {
+    "id": 166,
+    "parent": 5,
+    "Category": "Flavored Water",
+    "Value": 14826183
+  },
+  {
+    "id": 167,
+    "parent": 5,
+    "Category": "Beer",
+    "Value": 21197103
+  },
+  {
+    "id": 168,
+    "parent": 5,
+    "Category": "Wine",
+    "Value": 40417334
+  },
+  {
+    "id": 169,
+    "parent": 5,
+    "Category": "Vermouth",
+    "Value": 82654
+  },
+  {
+    "id": 170,
+    "parent": 5,
+    "Category": "Other Fermented Beverages",
+    "Value": 4028893
+  },
+  {
+    "id": 171,
+    "parent": 5,
+    "Category": "Alcohol > 80% ABV",
+    "Value": 2426894
+  },
+  {
+    "id": 172,
+    "parent": 5,
+    "Category": "Hard Liquor",
+    "Value": 47397902
+  },
+  {
+    "id": 173,
+    "parent": 5,
+    "Category": "Vinegar",
+    "Value": 1532517
+  },
+  {
+    "id": 174,
+    "parent": 5,
+    "Category": "Animal Meal and Pellets",
+    "Value": 676840
+  },
+  {
+    "id": 175,
+    "parent": 5,
+    "Category": "Bran",
+    "Value": 912660
+  },
+  {
+    "id": 176,
+    "parent": 5,
+    "Category": "Starch Residue",
+    "Value": 22292189
+  },
+  {
+    "id": 177,
+    "parent": 5,
+    "Category": "Soybean Meal",
+    "Value": 34972738
+  },
+  {
+    "id": 178,
+    "parent": 5,
+    "Category": "Other Vegetable Residues",
+    "Value": 6329957
+  },
+  {
+    "id": 179,
+    "parent": 5,
+    "Category": "Other Vegetable Residues and Waste",
+    "Value": 11563771
+  },
+  {
+    "id": 180,
+    "parent": 5,
+    "Category": "Animal Food",
+    "Value": 209754382
+  },
+  {
+    "id": 181,
+    "parent": 5,
+    "Category": "Raw Tobacco",
+    "Value": 42633794
+  },
+  {
+    "id": 182,
+    "parent": 5,
+    "Category": "Rolled Tobacco",
+    "Value": 135911115
+  },
+  {
+    "id": 183,
+    "parent": 5,
+    "Category": "Processed Tobacco",
+    "Value": 13638012
+  },
+  {
+    "id": 184,
+    "parent": 6,
+    "Category": "Salt",
+    "Value": 14186058
+  },
+  {
+    "id": 185,
+    "parent": 6,
+    "Category": "Iron Pyrites",
+    "Value": 357178
+  },
+  {
+    "id": 186,
+    "parent": 6,
+    "Category": "Sulphur",
+    "Value": 73909
+  },
+  {
+    "id": 187,
+    "parent": 6,
+    "Category": "Graphite",
+    "Value": 25807421
+  },
+  {
+    "id": 188,
+    "parent": 6,
+    "Category": "Sand",
+    "Value": 115328
+  },
+  {
+    "id": 189,
+    "parent": 6,
+    "Category": "Quartz",
+    "Value": 4920765
+  },
+  {
+    "id": 190,
+    "parent": 6,
+    "Category": "Kaolin",
+    "Value": 10818770
+  },
+  {
+    "id": 191,
+    "parent": 6,
+    "Category": "Clays",
+    "Value": 35595899
+  },
+  {
+    "id": 192,
+    "parent": 6,
+    "Category": "Chalk",
+    "Value": 321598
+  },
+  {
+    "id": 193,
+    "parent": 6,
+    "Category": "Calcium Phosphates",
+    "Value": 4288540
+  },
+  {
+    "id": 194,
+    "parent": 6,
+    "Category": "Barium Sulphate",
+    "Value": 26467880
+  },
+  {
+    "id": 195,
+    "parent": 6,
+    "Category": "Siliceous Fossil Meals",
+    "Value": 603541
+  },
+  {
+    "id": 196,
+    "parent": 6,
+    "Category": "Pumice",
+    "Value": 3966098
+  },
+  {
+    "id": 197,
+    "parent": 6,
+    "Category": "Slate",
+    "Value": 1402749
+  },
+  {
+    "id": 198,
+    "parent": 6,
+    "Category": "Marble, Travertine and Alabaster",
+    "Value": 3449015
+  },
+  {
+    "id": 199,
+    "parent": 6,
+    "Category": "Granite",
+    "Value": 2920654
+  },
+  {
+    "id": 200,
+    "parent": 6,
+    "Category": "Gravel and Crushed Stone",
+    "Value": 39926048
+  },
+  {
+    "id": 201,
+    "parent": 6,
+    "Category": "Dolomite",
+    "Value": 3194930
+  },
+  {
+    "id": 202,
+    "parent": 6,
+    "Category": "Magnesium Carbonate",
+    "Value": 74777254
+  },
+  {
+    "id": 203,
+    "parent": 6,
+    "Category": "Gypsum",
+    "Value": 1082010
+  },
+  {
+    "id": 204,
+    "parent": 6,
+    "Category": "Limestone",
+    "Value": 1438655
+  },
+  {
+    "id": 205,
+    "parent": 6,
+    "Category": "Quicklime",
+    "Value": 2423947
+  },
+  {
+    "id": 206,
+    "parent": 6,
+    "Category": "Cement",
+    "Value": 52738201
+  },
+  {
+    "id": 207,
+    "parent": 6,
+    "Category": "Asbestos",
+    "Value": 724857
+  },
+  {
+    "id": 208,
+    "parent": 6,
+    "Category": "Mica",
+    "Value": 4257662
+  },
+  {
+    "id": 209,
+    "parent": 6,
+    "Category": "Soapstone",
+    "Value": 13026549
+  },
+  {
+    "id": 210,
+    "parent": 6,
+    "Category": "Borax",
+    "Value": 222982
+  },
+  {
+    "id": 211,
+    "parent": 6,
+    "Category": "Feldspar",
+    "Value": 7814693
+  },
+  {
+    "id": 212,
+    "parent": 6,
+    "Category": "Other Mineral",
+    "Value": 13647337
+  },
+  {
+    "id": 213,
+    "parent": 6,
+    "Category": "Iron Ore",
+    "Value": 57921723
+  },
+  {
+    "id": 214,
+    "parent": 6,
+    "Category": "Manganese Ore",
+    "Value": 262725
+  },
+  {
+    "id": 215,
+    "parent": 6,
+    "Category": "Copper Ore",
+    "Value": 90
+  },
+  {
+    "id": 216,
+    "parent": 6,
+    "Category": "Nickel Ore",
+    "Value": 262743
+  },
+  {
+    "id": 217,
+    "parent": 6,
+    "Category": "Aluminium Ore",
+    "Value": 1222771
+  },
+  {
+    "id": 218,
+    "parent": 6,
+    "Category": "Lead Ore",
+    "Value": 160802
+  },
+  {
+    "id": 219,
+    "parent": 6,
+    "Category": "Chromium Ore",
+    "Value": 8550
+  },
+  {
+    "id": 220,
+    "parent": 6,
+    "Category": "Molybdenum Ore",
+    "Value": 3387905
+  },
+  {
+    "id": 221,
+    "parent": 6,
+    "Category": "Titanium Ore",
+    "Value": 2250312
+  },
+  {
+    "id": 222,
+    "parent": 6,
+    "Category": "Niobium, Tantalum, Vanadium and Zirconium Ore",
+    "Value": 145720
+  },
+  {
+    "id": 223,
+    "parent": 6,
+    "Category": "Precious Metal Ore",
+    "Value": 1
+  },
+  {
+    "id": 224,
+    "parent": 6,
+    "Category": "Other Ores",
+    "Value": 11059
+  },
+  {
+    "id": 225,
+    "parent": 6,
+    "Category": "Granulated Slag",
+    "Value": 3945526
+  },
+  {
+    "id": 226,
+    "parent": 6,
+    "Category": "Slag Dross",
+    "Value": 565365
+  },
+  {
+    "id": 227,
+    "parent": 6,
+    "Category": "Non-Iron and Steel Slag, Ash and Residues",
+    "Value": 280355
+  },
+  {
+    "id": 228,
+    "parent": 6,
+    "Category": "Other Slag and Ash",
+    "Value": 11776793
+  },
+  {
+    "id": 229,
+    "parent": 6,
+    "Category": "Coal Briquettes",
+    "Value": 94814283
+  },
+  {
+    "id": 230,
+    "parent": 6,
+    "Category": "Lignite",
+    "Value": 78335
+  },
+  {
+    "id": 231,
+    "parent": 6,
+    "Category": "Peat",
+    "Value": 142681
+  },
+  {
+    "id": 232,
+    "parent": 6,
+    "Category": "Coke",
+    "Value": 298326449
+  },
+  {
+    "id": 233,
+    "parent": 6,
+    "Category": "Tar",
+    "Value": 1194445
+  },
+  {
+    "id": 234,
+    "parent": 6,
+    "Category": "Coal Tar Oil",
+    "Value": 2079899
+  },
+  {
+    "id": 235,
+    "parent": 6,
+    "Category": "Pitch Coke",
+    "Value": 21358215
+  },
+  {
+    "id": 236,
+    "parent": 6,
+    "Category": "Crude Petroleum",
+    "Value": 62701648
+  },
+  {
+    "id": 237,
+    "parent": 6,
+    "Category": "Refined Petroleum",
+    "Value": 3262940218
+  },
+  {
+    "id": 238,
+    "parent": 6,
+    "Category": "Petroleum Gas",
+    "Value": 147808489
+  },
+  {
+    "id": 239,
+    "parent": 6,
+    "Category": "Petroleum Jelly",
+    "Value": 52017691
+  },
+  {
+    "id": 240,
+    "parent": 6,
+    "Category": "Petroleum Coke",
+    "Value": 115092085
+  },
+  {
+    "id": 241,
+    "parent": 6,
+    "Category": "Asphalt",
+    "Value": 207480
+  },
+  {
+    "id": 242,
+    "parent": 6,
+    "Category": "Asphalt Mixtures",
+    "Value": 1010117
+  },
+  {
+    "id": 243,
+    "parent": 6,
+    "Category": "Electricity",
+    "Value": 77796718
+  },
+  {
+    "id": 244,
+    "parent": 7,
+    "Category": "Halogens",
+    "Value": 62442
+  },
+  {
+    "id": 245,
+    "parent": 7,
+    "Category": "Sulfur",
+    "Value": 113892
+  },
+  {
+    "id": 246,
+    "parent": 7,
+    "Category": "Carbon",
+    "Value": 56287200
+  },
+  {
+    "id": 247,
+    "parent": 7,
+    "Category": "Hydrogen",
+    "Value": 202504977
+  },
+  {
+    "id": 248,
+    "parent": 7,
+    "Category": "Alkaline Metals",
+    "Value": 19918127
+  },
+  {
+    "id": 249,
+    "parent": 7,
+    "Category": "Hydrochloric Acid",
+    "Value": 334815
+  },
+  {
+    "id": 250,
+    "parent": 7,
+    "Category": "Sulfuric Acid",
+    "Value": 1738146
+  },
+  {
+    "id": 251,
+    "parent": 7,
+    "Category": "Nitric Acids",
+    "Value": 787612
+  },
+  {
+    "id": 252,
+    "parent": 7,
+    "Category": "Phosphoric Acid",
+    "Value": 38573357
+  },
+  {
+    "id": 253,
+    "parent": 7,
+    "Category": "Boron",
+    "Value": 153857
+  },
+  {
+    "id": 254,
+    "parent": 7,
+    "Category": "Other Inorganic Acids",
+    "Value": 100397276
+  },
+  {
+    "id": 255,
+    "parent": 7,
+    "Category": "Halides",
+    "Value": 8030638
+  },
+  {
+    "id": 256,
+    "parent": 7,
+    "Category": "Nonmetal Sulfides",
+    "Value": 638093
+  },
+  {
+    "id": 257,
+    "parent": 7,
+    "Category": "Ammonia",
+    "Value": 336235
+  },
+  {
+    "id": 258,
+    "parent": 7,
+    "Category": "Sodium or Potassium Peroxides",
+    "Value": 79523332
+  },
+  {
+    "id": 259,
+    "parent": 7,
+    "Category": "Magnesium Hydroxide and Peroxide",
+    "Value": 2125432
+  },
+  {
+    "id": 260,
+    "parent": 7,
+    "Category": "Zinc Oxide and Peroxide",
+    "Value": 3477533
+  },
+  {
+    "id": 261,
+    "parent": 7,
+    "Category": "Aluminium Oxide",
+    "Value": 69330728
+  },
+  {
+    "id": 262,
+    "parent": 7,
+    "Category": "Chromium Oxides and Hydroxides",
+    "Value": 4132250
+  },
+  {
+    "id": 263,
+    "parent": 7,
+    "Category": "Manganese Oxides",
+    "Value": 7036955
+  },
+  {
+    "id": 264,
+    "parent": 7,
+    "Category": "Iron Oxides and Hydroxides",
+    "Value": 28256408
+  },
+  {
+    "id": 265,
+    "parent": 7,
+    "Category": "Cobalt Oxides and Hydroxides",
+    "Value": 44038172
+  },
+  {
+    "id": 266,
+    "parent": 7,
+    "Category": "Titanium Oxides",
+    "Value": 13272268
+  },
+  {
+    "id": 267,
+    "parent": 7,
+    "Category": "Lead Oxides",
+    "Value": 369116
+  },
+  {
+    "id": 268,
+    "parent": 7,
+    "Category": "Inorganic Salts",
+    "Value": 105750291
+  },
+  {
+    "id": 269,
+    "parent": 7,
+    "Category": "Fluorides",
+    "Value": 27134823
+  },
+  {
+    "id": 270,
+    "parent": 7,
+    "Category": "Chlorides",
+    "Value": 57091895
+  },
+  {
+    "id": 271,
+    "parent": 7,
+    "Category": "Hypochlorites",
+    "Value": 10866436
+  },
+  {
+    "id": 272,
+    "parent": 7,
+    "Category": "Chlorates and Perchlorates",
+    "Value": 3545398
+  },
+  {
+    "id": 273,
+    "parent": 7,
+    "Category": "Sulfides",
+    "Value": 10740725
+  },
+  {
+    "id": 274,
+    "parent": 7,
+    "Category": "Dithionites and Sulfoxylates",
+    "Value": 5158332
+  },
+  {
+    "id": 275,
+    "parent": 7,
+    "Category": "Sulfites",
+    "Value": 13964843
+  },
+  {
+    "id": 276,
+    "parent": 7,
+    "Category": "Sulfates",
+    "Value": 91411387
+  },
+  {
+    "id": 277,
+    "parent": 7,
+    "Category": "Nitrites and Nitrates",
+    "Value": 27353821
+  },
+  {
+    "id": 278,
+    "parent": 7,
+    "Category": "Phosphinates and Phosphonates",
+    "Value": 86005934
+  },
+  {
+    "id": 279,
+    "parent": 7,
+    "Category": "Carbonates",
+    "Value": 92555143
+  },
+  {
+    "id": 280,
+    "parent": 7,
+    "Category": "Cyanides",
+    "Value": 17089696
+  },
+  {
+    "id": 281,
+    "parent": 7,
+    "Category": "Silicates",
+    "Value": 13304676
+  },
+  {
+    "id": 282,
+    "parent": 7,
+    "Category": "Borates",
+    "Value": 4115799
+  },
+  {
+    "id": 283,
+    "parent": 7,
+    "Category": "Oxometallic or Peroxometallic Acid Salts",
+    "Value": 85609322
+  },
+  {
+    "id": 284,
+    "parent": 7,
+    "Category": "Other Inorganic Acids Salts",
+    "Value": 29691229
+  },
+  {
+    "id": 285,
+    "parent": 7,
+    "Category": "Precious Metal Compounds",
+    "Value": 20247567
+  },
+  {
+    "id": 286,
+    "parent": 7,
+    "Category": "Radioactive Chemicals",
+    "Value": 333971
+  },
+  {
+    "id": 287,
+    "parent": 7,
+    "Category": "Other Isotopes",
+    "Value": 532005
+  },
+  {
+    "id": 288,
+    "parent": 7,
+    "Category": "Rare-Earth Metal Compounds",
+    "Value": 32569362
+  },
+  {
+    "id": 289,
+    "parent": 7,
+    "Category": "Hydrogen peroxide",
+    "Value": 97449
+  },
+  {
+    "id": 290,
+    "parent": 7,
+    "Category": "Carbides",
+    "Value": 50050931
+  },
+  {
+    "id": 291,
+    "parent": 7,
+    "Category": "Hydrides and other anions",
+    "Value": 9938847
+  },
+  {
+    "id": 292,
+    "parent": 7,
+    "Category": "Other inorganic compounds",
+    "Value": 50065844
+  },
+  {
+    "id": 293,
+    "parent": 7,
+    "Category": "Acyclic Hydrocarbons",
+    "Value": 9923191
+  },
+  {
+    "id": 294,
+    "parent": 7,
+    "Category": "Cyclic Hydrocarbons",
+    "Value": 37784210
+  },
+  {
+    "id": 295,
+    "parent": 7,
+    "Category": "Halogenated Hydrocarbons",
+    "Value": 208484960
+  },
+  {
+    "id": 296,
+    "parent": 7,
+    "Category": "Sulfonated, Nitrated or Nitrosated Hydrocarbons",
+    "Value": 20212135
+  },
+  {
+    "id": 297,
+    "parent": 7,
+    "Category": "Acyclic Alcohols",
+    "Value": 106218781
+  },
+  {
+    "id": 298,
+    "parent": 7,
+    "Category": "Cyclic Alcohols",
+    "Value": 62789761
+  },
+  {
+    "id": 299,
+    "parent": 7,
+    "Category": "Phenols",
+    "Value": 23354657
+  },
+  {
+    "id": 300,
+    "parent": 7,
+    "Category": "Phenol Derivatives",
+    "Value": 6842972
+  },
+  {
+    "id": 301,
+    "parent": 7,
+    "Category": "Ethers",
+    "Value": 83665823
+  },
+  {
+    "id": 302,
+    "parent": 7,
+    "Category": "Epoxides",
+    "Value": 8040914
+  },
+  {
+    "id": 303,
+    "parent": 7,
+    "Category": "Acetals and Hemiacetals",
+    "Value": 1982215
+  },
+  {
+    "id": 304,
+    "parent": 7,
+    "Category": "Aldehydes",
+    "Value": 40535799
+  },
+  {
+    "id": 305,
+    "parent": 7,
+    "Category": "Aldehyde Derivatives",
+    "Value": 6065816
+  },
+  {
+    "id": 306,
+    "parent": 7,
+    "Category": "Ketones and Quinones",
+    "Value": 124269305
+  },
+  {
+    "id": 307,
+    "parent": 7,
+    "Category": "Saturated Acyclic Monocarboxylic Acids",
+    "Value": 186511403
+  },
+  {
+    "id": 308,
+    "parent": 7,
+    "Category": "Unsaturated Acyclic Monocarboxylic Acids",
+    "Value": 147753075
+  },
+  {
+    "id": 309,
+    "parent": 7,
+    "Category": "Polycarboxylic Acids",
+    "Value": 166174626
+  },
+  {
+    "id": 310,
+    "parent": 7,
+    "Category": "Carboxylic Acids",
+    "Value": 284224880
+  },
+  {
+    "id": 311,
+    "parent": 7,
+    "Category": "Phosphoric Esters and Salts",
+    "Value": 42424616
+  },
+  {
+    "id": 312,
+    "parent": 7,
+    "Category": "Other Esters",
+    "Value": 31695283
+  },
+  {
+    "id": 313,
+    "parent": 7,
+    "Category": "Amine Compounds",
+    "Value": 205717140
+  },
+  {
+    "id": 314,
+    "parent": 7,
+    "Category": "Oxygen Amino Compounds",
+    "Value": 320696599
+  },
+  {
+    "id": 315,
+    "parent": 7,
+    "Category": "Quaternary Ammonium Salts and Hydroxides",
+    "Value": 37301659
+  },
+  {
+    "id": 316,
+    "parent": 7,
+    "Category": "Carboxyamide Compounds",
+    "Value": 169106819
+  },
+  {
+    "id": 317,
+    "parent": 7,
+    "Category": "Carboxyimide Compounds",
+    "Value": 29998754
+  },
+  {
+    "id": 318,
+    "parent": 7,
+    "Category": "Nitrile Compounds",
+    "Value": 84677740
+  },
+  {
+    "id": 319,
+    "parent": 7,
+    "Category": "Diazo, Azo or Aoxy Compounds",
+    "Value": 21513880
+  },
+  {
+    "id": 320,
+    "parent": 7,
+    "Category": "Hydrazine or Hydroxylamine Derivatives",
+    "Value": 15315317
+  },
+  {
+    "id": 321,
+    "parent": 7,
+    "Category": "Other Nitrogen Compounds",
+    "Value": 89725987
+  },
+  {
+    "id": 322,
+    "parent": 7,
+    "Category": "Organo-Sulfur Compounds",
+    "Value": 192159764
+  },
+  {
+    "id": 323,
+    "parent": 7,
+    "Category": "Other Organo-Inorganic Compounds",
+    "Value": 257272474
+  },
+  {
+    "id": 324,
+    "parent": 7,
+    "Category": "Oxygen Heterocyclic Compounds",
+    "Value": 247393302
+  },
+  {
+    "id": 325,
+    "parent": 7,
+    "Category": "Nitrogen Heterocyclic Compounds",
+    "Value": 826337914
+  },
+  {
+    "id": 326,
+    "parent": 7,
+    "Category": "Nucleic Acids",
+    "Value": 275857075
+  },
+  {
+    "id": 327,
+    "parent": 7,
+    "Category": "Sulfonamides",
+    "Value": 67420454
+  },
+  {
+    "id": 328,
+    "parent": 7,
+    "Category": "Vitamins",
+    "Value": 473269105
+  },
+  {
+    "id": 329,
+    "parent": 7,
+    "Category": "Hormones",
+    "Value": 84797664
+  },
+  {
+    "id": 330,
+    "parent": 7,
+    "Category": "Glycosides",
+    "Value": 56442899
+  },
+  {
+    "id": 331,
+    "parent": 7,
+    "Category": "Vegetable Alkaloids",
+    "Value": 17460895
+  },
+  {
+    "id": 332,
+    "parent": 7,
+    "Category": "Chemically Pure Sugars",
+    "Value": 9066908
+  },
+  {
+    "id": 333,
+    "parent": 7,
+    "Category": "Antibiotics",
+    "Value": 356115250
+  },
+  {
+    "id": 334,
+    "parent": 7,
+    "Category": "Other Organic Compounds",
+    "Value": 5093766
+  },
+  {
+    "id": 335,
+    "parent": 7,
+    "Category": "Glands and Other Organs",
+    "Value": 137750983
+  },
+  {
+    "id": 336,
+    "parent": 7,
+    "Category": "Blood, antisera, vaccines, toxins and cultures",
+    "Value": 67632201
+  },
+  {
+    "id": 337,
+    "parent": 7,
+    "Category": "Unpackaged Medicaments",
+    "Value": 58527106
+  },
+  {
+    "id": 338,
+    "parent": 7,
+    "Category": "Packaged Medicaments",
+    "Value": 346931146
+  },
+  {
+    "id": 339,
+    "parent": 7,
+    "Category": "Bandages",
+    "Value": 134064586
+  },
+  {
+    "id": 340,
+    "parent": 7,
+    "Category": "Special Pharmaceuticals",
+    "Value": 65175444
+  },
+  {
+    "id": 341,
+    "parent": 7,
+    "Category": "Animal or Vegetable Fertilizers",
+    "Value": 1972463
+  },
+  {
+    "id": 342,
+    "parent": 7,
+    "Category": "Nitrogenous Fertilizers",
+    "Value": 232642315
+  },
+  {
+    "id": 343,
+    "parent": 7,
+    "Category": "Phosphatic Fertilizers",
+    "Value": 48175877
+  },
+  {
+    "id": 344,
+    "parent": 7,
+    "Category": "Potassic Fertilizers",
+    "Value": 6044419
+  },
+  {
+    "id": 345,
+    "parent": 7,
+    "Category": "Mixed Mineral or Chemical Fertilizers",
+    "Value": 288393153
+  },
+  {
+    "id": 346,
+    "parent": 7,
+    "Category": "Vegetable Tanning Extracts",
+    "Value": 352597
+  },
+  {
+    "id": 347,
+    "parent": 7,
+    "Category": "Synthetic Tanning Extracts",
+    "Value": 2599092
+  },
+  {
+    "id": 348,
+    "parent": 7,
+    "Category": "Vegetable or Animal Dyes",
+    "Value": 19224860
+  },
+  {
+    "id": 349,
+    "parent": 7,
+    "Category": "Synthetic Coloring Matter",
+    "Value": 257776678
+  },
+  {
+    "id": 350,
+    "parent": 7,
+    "Category": "Lake Pigments",
+    "Value": 12055
+  },
+  {
+    "id": 351,
+    "parent": 7,
+    "Category": "Other Coloring Matter",
+    "Value": 254927858
+  },
+  {
+    "id": 352,
+    "parent": 7,
+    "Category": "Prepared Pigments",
+    "Value": 33991864
+  },
+  {
+    "id": 353,
+    "parent": 7,
+    "Category": "Nonaqueous Paints",
+    "Value": 41125439
+  },
+  {
+    "id": 354,
+    "parent": 7,
+    "Category": "Aqueous Paints",
+    "Value": 9323354
+  },
+  {
+    "id": 355,
+    "parent": 7,
+    "Category": "Other Paints",
+    "Value": 3049433
+  },
+  {
+    "id": 356,
+    "parent": 7,
+    "Category": "Prepared Paint Driers",
+    "Value": 898365
+  },
+  {
+    "id": 357,
+    "parent": 7,
+    "Category": "Nonaqueous Pigments",
+    "Value": 5999676
+  },
+  {
+    "id": 358,
+    "parent": 7,
+    "Category": "Artistry Paints",
+    "Value": 26835067
+  },
+  {
+    "id": 359,
+    "parent": 7,
+    "Category": "Glaziers Putty",
+    "Value": 33335178
+  },
+  {
+    "id": 360,
+    "parent": 7,
+    "Category": "Ink",
+    "Value": 28948061
+  },
+  {
+    "id": 361,
+    "parent": 7,
+    "Category": "Essential Oils",
+    "Value": 43151197
+  },
+  {
+    "id": 362,
+    "parent": 7,
+    "Category": "Scented Mixtures",
+    "Value": 31905368
+  },
+  {
+    "id": 363,
+    "parent": 7,
+    "Category": "Perfumes",
+    "Value": 12076777
+  },
+  {
+    "id": 364,
+    "parent": 7,
+    "Category": "Beauty Products",
+    "Value": 186911876
+  },
+  {
+    "id": 365,
+    "parent": 7,
+    "Category": "Hair Products",
+    "Value": 24719372
+  },
+  {
+    "id": 366,
+    "parent": 7,
+    "Category": "Dental Products",
+    "Value": 40344813
+  },
+  {
+    "id": 367,
+    "parent": 7,
+    "Category": "Shaving Products",
+    "Value": 120106876
+  },
+  {
+    "id": 368,
+    "parent": 7,
+    "Category": "Soap",
+    "Value": 50332699
+  },
+  {
+    "id": 369,
+    "parent": 7,
+    "Category": "Cleaning Products",
+    "Value": 184817529
+  },
+  {
+    "id": 370,
+    "parent": 7,
+    "Category": "Lubricating Products",
+    "Value": 15956217
+  },
+  {
+    "id": 371,
+    "parent": 7,
+    "Category": "Waxes",
+    "Value": 7268003
+  },
+  {
+    "id": 372,
+    "parent": 7,
+    "Category": "Polishes and Creams",
+    "Value": 11367475
+  },
+  {
+    "id": 373,
+    "parent": 7,
+    "Category": "Candles",
+    "Value": 61093564
+  },
+  {
+    "id": 374,
+    "parent": 7,
+    "Category": "Pastes and Waxes",
+    "Value": 25340499
+  },
+  {
+    "id": 375,
+    "parent": 7,
+    "Category": "Casein",
+    "Value": 377028
+  },
+  {
+    "id": 376,
+    "parent": 7,
+    "Category": "Water Soluble Proteins",
+    "Value": 73774
+  },
+  {
+    "id": 377,
+    "parent": 7,
+    "Category": "Gelatin",
+    "Value": 8097229
+  },
+  {
+    "id": 378,
+    "parent": 7,
+    "Category": "Peptones",
+    "Value": 46553015
+  },
+  {
+    "id": 379,
+    "parent": 7,
+    "Category": "Dextrins",
+    "Value": 7296380
+  },
+  {
+    "id": 380,
+    "parent": 7,
+    "Category": "Glues",
+    "Value": 184245583
+  },
+  {
+    "id": 381,
+    "parent": 7,
+    "Category": "Enzymes",
+    "Value": 33404525
+  },
+  {
+    "id": 382,
+    "parent": 7,
+    "Category": "Propellant Powders",
+    "Value": 3694301
+  },
+  {
+    "id": 383,
+    "parent": 7,
+    "Category": "Prepared Explosives",
+    "Value": 802271
+  },
+  {
+    "id": 384,
+    "parent": 7,
+    "Category": "Detonating Fuses",
+    "Value": 5361565
+  },
+  {
+    "id": 385,
+    "parent": 7,
+    "Category": "Fireworks",
+    "Value": 39769154
+  },
+  {
+    "id": 386,
+    "parent": 7,
+    "Category": "Matches",
+    "Value": 393237
+  },
+  {
+    "id": 387,
+    "parent": 7,
+    "Category": "Pyrophoric Alloys",
+    "Value": 1088658
+  },
+  {
+    "id": 388,
+    "parent": 7,
+    "Category": "Photographic Plates",
+    "Value": 59566423
+  },
+  {
+    "id": 389,
+    "parent": 7,
+    "Category": "Photographic Film",
+    "Value": 12634083
+  },
+  {
+    "id": 390,
+    "parent": 7,
+    "Category": "Photographic Paper",
+    "Value": 5673912
+  },
+  {
+    "id": 391,
+    "parent": 7,
+    "Category": "Undeveloped Exposed Photographic Material",
+    "Value": 69581
+  },
+  {
+    "id": 392,
+    "parent": 7,
+    "Category": "Developed Exposed Photographic Material",
+    "Value": 78186
+  },
+  {
+    "id": 393,
+    "parent": 7,
+    "Category": "Motion-picture film, exposed and developed",
+    "Value": 5426
+  },
+  {
+    "id": 394,
+    "parent": 7,
+    "Category": "Photographic Chemicals",
+    "Value": 30479549
+  },
+  {
+    "id": 395,
+    "parent": 7,
+    "Category": "Artificial Graphite",
+    "Value": 43193570
+  },
+  {
+    "id": 396,
+    "parent": 7,
+    "Category": "Activated Carbon",
+    "Value": 39678906
+  },
+  {
+    "id": 397,
+    "parent": 7,
+    "Category": "Tall Oil",
+    "Value": 4764
+  },
+  {
+    "id": 398,
+    "parent": 7,
+    "Category": "Wood Pulp Lyes",
+    "Value": 1483197
+  },
+  {
+    "id": 399,
+    "parent": 7,
+    "Category": "Turpentine",
+    "Value": 1163304
+  },
+  {
+    "id": 400,
+    "parent": 7,
+    "Category": "Rosin",
+    "Value": 28523219
+  },
+  {
+    "id": 401,
+    "parent": 7,
+    "Category": "Wood Tar, Oils and Pitch",
+    "Value": 1675434
+  },
+  {
+    "id": 402,
+    "parent": 7,
+    "Category": "Pesticides",
+    "Value": 529930806
+  },
+  {
+    "id": 403,
+    "parent": 7,
+    "Category": "Dyeing Finishing Agents",
+    "Value": 26587548
+  },
+  {
+    "id": 404,
+    "parent": 7,
+    "Category": "Metal Pickling Preparations",
+    "Value": 8188523
+  },
+  {
+    "id": 405,
+    "parent": 7,
+    "Category": "Antiknock",
+    "Value": 13957611
+  },
+  {
+    "id": 406,
+    "parent": 7,
+    "Category": "Prepared Rubber Accelerators",
+    "Value": 74903390
+  },
+  {
+    "id": 407,
+    "parent": 7,
+    "Category": "Fire Extinguishers Preparations",
+    "Value": 3615063
+  },
+  {
+    "id": 408,
+    "parent": 7,
+    "Category": "Organic Composite Solvents",
+    "Value": 8917182
+  },
+  {
+    "id": 409,
+    "parent": 7,
+    "Category": "Reaction and Catalytic Products",
+    "Value": 35325338
+  },
+  {
+    "id": 410,
+    "parent": 7,
+    "Category": "Refractory Cements",
+    "Value": 28666644
+  },
+  {
+    "id": 411,
+    "parent": 7,
+    "Category": "Alkylbenzenes and Alkylnaphthalenes",
+    "Value": 16654156
+  },
+  {
+    "id": 412,
+    "parent": 7,
+    "Category": "Disc Chemicals for Electronics",
+    "Value": 396594988
+  },
+  {
+    "id": 413,
+    "parent": 7,
+    "Category": "Hydraulic Brake Fluid",
+    "Value": 744275
+  },
+  {
+    "id": 414,
+    "parent": 7,
+    "Category": "Antifreeze",
+    "Value": 1189751
+  },
+  {
+    "id": 415,
+    "parent": 7,
+    "Category": "Micro-Organism Culture Preparations",
+    "Value": 293468
+  },
+  {
+    "id": 416,
+    "parent": 7,
+    "Category": "Laboratory Reagents",
+    "Value": 24172507
+  },
+  {
+    "id": 417,
+    "parent": 7,
+    "Category": "Industrial Fatty Acids, Oils and Alcohols",
+    "Value": 7884243
+  },
+  {
+    "id": 418,
+    "parent": 7,
+    "Category": "Prepr binder for foundry",
+    "Value": 456759138
+  },
+  {
+    "id": 419,
+    "parent": 7,
+    "Category": "Residual products of the chemical or allied industries",
+    "Value": 1297159
+  },
+  {
+    "id": 420,
+    "parent": 7,
+    "Category": "Biodiesel and mixtures thereof",
+    "Value": 9401151
+  },
+  {
+    "id": 421,
+    "parent": 8,
+    "Category": "Ethylene Polymers",
+    "Value": 70488480
+  },
+  {
+    "id": 422,
+    "parent": 8,
+    "Category": "Propylene Polymers",
+    "Value": 38982610
+  },
+  {
+    "id": 423,
+    "parent": 8,
+    "Category": "Styrene Polymers",
+    "Value": 56206622
+  },
+  {
+    "id": 424,
+    "parent": 8,
+    "Category": "Vinyl Chloride Polymers",
+    "Value": 125440466
+  },
+  {
+    "id": 425,
+    "parent": 8,
+    "Category": "Other Vinyl Polymers",
+    "Value": 32724930
+  },
+  {
+    "id": 426,
+    "parent": 8,
+    "Category": "Acrylic Polymers",
+    "Value": 87494679
+  },
+  {
+    "id": 427,
+    "parent": 8,
+    "Category": "Polyacetals",
+    "Value": 518520005
+  },
+  {
+    "id": 428,
+    "parent": 8,
+    "Category": "Polyamides",
+    "Value": 65938379
+  },
+  {
+    "id": 429,
+    "parent": 8,
+    "Category": "Amino-resins",
+    "Value": 193854343
+  },
+  {
+    "id": 430,
+    "parent": 8,
+    "Category": "Silicone",
+    "Value": 81470337
+  },
+  {
+    "id": 431,
+    "parent": 8,
+    "Category": "Petroleum Resins",
+    "Value": 58729872
+  },
+  {
+    "id": 432,
+    "parent": 8,
+    "Category": "Cellulose",
+    "Value": 51818062
+  },
+  {
+    "id": 433,
+    "parent": 8,
+    "Category": "Natural Polymers",
+    "Value": 32635914
+  },
+  {
+    "id": 434,
+    "parent": 8,
+    "Category": "Polymer Ion-Exchangers",
+    "Value": 19491045
+  },
+  {
+    "id": 435,
+    "parent": 8,
+    "Category": "Scrap Plastic",
+    "Value": 10619537
+  },
+  {
+    "id": 436,
+    "parent": 8,
+    "Category": "Monofilament",
+    "Value": 46935563
+  },
+  {
+    "id": 437,
+    "parent": 8,
+    "Category": "Plastic Pipes",
+    "Value": 267055408
+  },
+  {
+    "id": 438,
+    "parent": 8,
+    "Category": "Plastic Floor Coverings",
+    "Value": 454887786
+  },
+  {
+    "id": 439,
+    "parent": 8,
+    "Category": "Self-adhesive Plastics",
+    "Value": 298423122
+  },
+  {
+    "id": 440,
+    "parent": 8,
+    "Category": "Raw Plastic Sheeting",
+    "Value": 594720684
+  },
+  {
+    "id": 441,
+    "parent": 8,
+    "Category": "Other Plastic Sheetings",
+    "Value": 204173967
+  },
+  {
+    "id": 442,
+    "parent": 8,
+    "Category": "Plastic Wash Basins",
+    "Value": 89320849
+  },
+  {
+    "id": 443,
+    "parent": 8,
+    "Category": "Plastic Lids",
+    "Value": 853414341
+  },
+  {
+    "id": 444,
+    "parent": 8,
+    "Category": "Plastic Housewares",
+    "Value": 873481177
+  },
+  {
+    "id": 445,
+    "parent": 8,
+    "Category": "Plastic Building Materials",
+    "Value": 192675418
+  },
+  {
+    "id": 446,
+    "parent": 8,
+    "Category": "Other Plastic Products",
+    "Value": 1879729147
+  },
+  {
+    "id": 447,
+    "parent": 8,
+    "Category": "Rubber",
+    "Value": 1004077
+  },
+  {
+    "id": 448,
+    "parent": 8,
+    "Category": "Synthetic Rubber",
+    "Value": 48833303
+  },
+  {
+    "id": 449,
+    "parent": 8,
+    "Category": "Reclaimed Rubber",
+    "Value": 8516999
+  },
+  {
+    "id": 450,
+    "parent": 8,
+    "Category": "Scrap Rubber",
+    "Value": 923432
+  },
+  {
+    "id": 451,
+    "parent": 8,
+    "Category": "Compounded Unvulcanised Rubber",
+    "Value": 2491461
+  },
+  {
+    "id": 452,
+    "parent": 8,
+    "Category": "Unvulcanised Rubber Products",
+    "Value": 590048
+  },
+  {
+    "id": 453,
+    "parent": 8,
+    "Category": "Rubber Thread",
+    "Value": 8086408
+  },
+  {
+    "id": 454,
+    "parent": 8,
+    "Category": "Rubber Sheets",
+    "Value": 29630730
+  },
+  {
+    "id": 455,
+    "parent": 8,
+    "Category": "Rubber Pipes",
+    "Value": 87019623
+  },
+  {
+    "id": 456,
+    "parent": 8,
+    "Category": "Rubber Belting",
+    "Value": 85074905
+  },
+  {
+    "id": 457,
+    "parent": 8,
+    "Category": "Rubber Tires",
+    "Value": 1391436509
+  },
+  {
+    "id": 458,
+    "parent": 8,
+    "Category": "Used Rubber Tires",
+    "Value": 14316241
+  },
+  {
+    "id": 459,
+    "parent": 8,
+    "Category": "Rubber Inner Tubes",
+    "Value": 46983179
+  },
+  {
+    "id": 460,
+    "parent": 8,
+    "Category": "Pharmaceutical Rubber Products",
+    "Value": 15752763
+  },
+  {
+    "id": 461,
+    "parent": 8,
+    "Category": "Rubber Apparel",
+    "Value": 54359033
+  },
+  {
+    "id": 462,
+    "parent": 8,
+    "Category": "Other Rubber Products",
+    "Value": 232293111
+  },
+  {
+    "id": 463,
+    "parent": 8,
+    "Category": "Hard Rubber",
+    "Value": 3479562
+  },
+  {
+    "id": 464,
+    "parent": 9,
+    "Category": "Equine and Bovine Hides",
+    "Value": 785608
+  },
+  {
+    "id": 465,
+    "parent": 9,
+    "Category": "Sheep Hides",
+    "Value": 190004
+  },
+  {
+    "id": 466,
+    "parent": 9,
+    "Category": "Tanned Equine and Bovine Hides",
+    "Value": 1098054
+  },
+  {
+    "id": 467,
+    "parent": 9,
+    "Category": "Tanned Sheep Hides",
+    "Value": 540771
+  },
+  {
+    "id": 468,
+    "parent": 9,
+    "Category": "Tanned Goat Hides",
+    "Value": 463353
+  },
+  {
+    "id": 469,
+    "parent": 9,
+    "Category": "Leather of Other Animals",
+    "Value": 34946091
+  },
+  {
+    "id": 470,
+    "parent": 9,
+    "Category": "Leather further prepared after tanning or crusting of sheep or lamb",
+    "Value": 1447326
+  },
+  {
+    "id": 471,
+    "parent": 9,
+    "Category": "Leather further prepared after tanning or crusting of animals (other than ovine)",
+    "Value": 3768337
+  },
+  {
+    "id": 472,
+    "parent": 9,
+    "Category": "Chamois (including combination chamois) leather",
+    "Value": 1362349
+  },
+  {
+    "id": 473,
+    "parent": 9,
+    "Category": "Composition leather with a basis of leather or leather fibre",
+    "Value": 1788336
+  },
+  {
+    "id": 474,
+    "parent": 9,
+    "Category": "Saddlery",
+    "Value": 47047878
+  },
+  {
+    "id": 475,
+    "parent": 9,
+    "Category": "Trunks and Cases",
+    "Value": 2580857732
+  },
+  {
+    "id": 476,
+    "parent": 9,
+    "Category": "Leather Apparel",
+    "Value": 127252712
+  },
+  {
+    "id": 477,
+    "parent": 9,
+    "Category": "Other Leather Articles",
+    "Value": 46424766
+  },
+  {
+    "id": 478,
+    "parent": 9,
+    "Category": "Articles of Gut",
+    "Value": 3688
+  },
+  {
+    "id": 479,
+    "parent": 9,
+    "Category": "Tanned Furskins",
+    "Value": 14155798
+  },
+  {
+    "id": 480,
+    "parent": 9,
+    "Category": "Furskin Apparel",
+    "Value": 316957136
+  },
+  {
+    "id": 481,
+    "parent": 9,
+    "Category": "Artificial Fur",
+    "Value": 1172593
+  },
+  {
+    "id": 482,
+    "parent": 10,
+    "Category": "Fuel Wood",
+    "Value": 594424
+  },
+  {
+    "id": 483,
+    "parent": 10,
+    "Category": "Wood Charcoal",
+    "Value": 11218544
+  },
+  {
+    "id": 484,
+    "parent": 10,
+    "Category": "Rough Wood",
+    "Value": 4723912
+  },
+  {
+    "id": 485,
+    "parent": 10,
+    "Category": "Wood Stakes",
+    "Value": 278274
+  },
+  {
+    "id": 486,
+    "parent": 10,
+    "Category": "Wood Wool",
+    "Value": 337893
+  },
+  {
+    "id": 487,
+    "parent": 10,
+    "Category": "Railroad Ties",
+    "Value": 4600
+  },
+  {
+    "id": 488,
+    "parent": 10,
+    "Category": "Sawn Wood",
+    "Value": 17222314
+  },
+  {
+    "id": 489,
+    "parent": 10,
+    "Category": "Veneer Sheets",
+    "Value": 41298128
+  },
+  {
+    "id": 490,
+    "parent": 10,
+    "Category": "Shaped Wood",
+    "Value": 37044743
+  },
+  {
+    "id": 491,
+    "parent": 10,
+    "Category": "Particle Board",
+    "Value": 9795836
+  },
+  {
+    "id": 492,
+    "parent": 10,
+    "Category": "Wood Fiberboard",
+    "Value": 107053004
+  },
+  {
+    "id": 493,
+    "parent": 10,
+    "Category": "Plywood",
+    "Value": 513954326
+  },
+  {
+    "id": 494,
+    "parent": 10,
+    "Category": "Densified Wood",
+    "Value": 1081317
+  },
+  {
+    "id": 495,
+    "parent": 10,
+    "Category": "Wood Frames",
+    "Value": 36595765
+  },
+  {
+    "id": 496,
+    "parent": 10,
+    "Category": "Wood Crates",
+    "Value": 6427299
+  },
+  {
+    "id": 497,
+    "parent": 10,
+    "Category": "Wood Barrels",
+    "Value": 221114
+  },
+  {
+    "id": 498,
+    "parent": 10,
+    "Category": "Wooden Tool Handles",
+    "Value": 22836013
+  },
+  {
+    "id": 499,
+    "parent": 10,
+    "Category": "Wood Carpentry",
+    "Value": 105863351
+  },
+  {
+    "id": 500,
+    "parent": 10,
+    "Category": "Wood Kitchenware",
+    "Value": 66674044
+  },
+  {
+    "id": 501,
+    "parent": 10,
+    "Category": "Wood Ornaments",
+    "Value": 104882438
+  },
+  {
+    "id": 502,
+    "parent": 10,
+    "Category": "Other Wood Articles",
+    "Value": 244664149
+  },
+  {
+    "id": 503,
+    "parent": 10,
+    "Category": "Raw Cork",
+    "Value": 27864
+  },
+  {
+    "id": 504,
+    "parent": 10,
+    "Category": "Debacked Cork",
+    "Value": 1565
+  },
+  {
+    "id": 505,
+    "parent": 10,
+    "Category": "Natural Cork Articles",
+    "Value": 30421
+  },
+  {
+    "id": 506,
+    "parent": 10,
+    "Category": "Agglomerated Cork",
+    "Value": 1827082
+  },
+  {
+    "id": 507,
+    "parent": 10,
+    "Category": "Plaiting Products",
+    "Value": 31635256
+  },
+  {
+    "id": 508,
+    "parent": 10,
+    "Category": "Basketwork",
+    "Value": 107335646
+  },
+  {
+    "id": 509,
+    "parent": 11,
+    "Category": "Mechanical Wood Pulp",
+    "Value": 37801
+  },
+  {
+    "id": 510,
+    "parent": 11,
+    "Category": "Dissolving Grades Chemical Woodpulp",
+    "Value": 10929
+  },
+  {
+    "id": 511,
+    "parent": 11,
+    "Category": "Sulfate Chemical Woodpulp",
+    "Value": 1593424
+  },
+  {
+    "id": 512,
+    "parent": 11,
+    "Category": "Sulfite Chemical Woodpulp",
+    "Value": 19765
+  },
+  {
+    "id": 513,
+    "parent": 11,
+    "Category": "Recovered Paper Pulp",
+    "Value": 10751854
+  },
+  {
+    "id": 514,
+    "parent": 11,
+    "Category": "Recovered Paper",
+    "Value": 19677
+  },
+  {
+    "id": 515,
+    "parent": 11,
+    "Category": "Newsprint",
+    "Value": 411857
+  },
+  {
+    "id": 516,
+    "parent": 11,
+    "Category": "Uncoated Paper",
+    "Value": 70660896
+  },
+  {
+    "id": 517,
+    "parent": 11,
+    "Category": "Facial Tissue",
+    "Value": 26848727
+  },
+  {
+    "id": 518,
+    "parent": 11,
+    "Category": "Uncoated Kraft Paper",
+    "Value": 9556012
+  },
+  {
+    "id": 519,
+    "parent": 11,
+    "Category": "Other Uncoated Paper",
+    "Value": 48810264
+  },
+  {
+    "id": 520,
+    "parent": 11,
+    "Category": "Vegetable Parchment",
+    "Value": 10996469
+  },
+  {
+    "id": 521,
+    "parent": 11,
+    "Category": "Composite Paper",
+    "Value": 2188755
+  },
+  {
+    "id": 522,
+    "parent": 11,
+    "Category": "Corrugated Paper",
+    "Value": 6777464
+  },
+  {
+    "id": 523,
+    "parent": 11,
+    "Category": "Carbon Paper",
+    "Value": 22125415
+  },
+  {
+    "id": 524,
+    "parent": 11,
+    "Category": "Kaolin Coated Paper",
+    "Value": 242222094
+  },
+  {
+    "id": 525,
+    "parent": 11,
+    "Category": "Cellulose Fibers Paper",
+    "Value": 130969923
+  },
+  {
+    "id": 526,
+    "parent": 11,
+    "Category": "Paper Pulp Filter Blocks",
+    "Value": 541370
+  },
+  {
+    "id": 527,
+    "parent": 11,
+    "Category": "Cigarette Paper",
+    "Value": 8224323
+  },
+  {
+    "id": 528,
+    "parent": 11,
+    "Category": "Wallpaper",
+    "Value": 36056960
+  },
+  {
+    "id": 529,
+    "parent": 11,
+    "Category": "Other Carbon Paper",
+    "Value": 24545242
+  },
+  {
+    "id": 530,
+    "parent": 11,
+    "Category": "Letter Stock",
+    "Value": 18091353
+  },
+  {
+    "id": 531,
+    "parent": 11,
+    "Category": "Toilet Paper",
+    "Value": 197197012
+  },
+  {
+    "id": 532,
+    "parent": 11,
+    "Category": "Paper Containers",
+    "Value": 393707763
+  },
+  {
+    "id": 533,
+    "parent": 11,
+    "Category": "Paper Notebooks",
+    "Value": 139405942
+  },
+  {
+    "id": 534,
+    "parent": 11,
+    "Category": "Paper Labels",
+    "Value": 70226042
+  },
+  {
+    "id": 535,
+    "parent": 11,
+    "Category": "Paper Spools",
+    "Value": 3784198
+  },
+  {
+    "id": 536,
+    "parent": 11,
+    "Category": "Shaped Paper",
+    "Value": 216711176
+  },
+  {
+    "id": 537,
+    "parent": 11,
+    "Category": "Brochures",
+    "Value": 117655047
+  },
+  {
+    "id": 538,
+    "parent": 11,
+    "Category": "Newspapers",
+    "Value": 1179076
+  },
+  {
+    "id": 539,
+    "parent": 11,
+    "Category": "Children's Picture Books",
+    "Value": 51309790
+  },
+  {
+    "id": 540,
+    "parent": 11,
+    "Category": "Sheet Music",
+    "Value": 12242
+  },
+  {
+    "id": 541,
+    "parent": 11,
+    "Category": "Maps",
+    "Value": 2059871
+  },
+  {
+    "id": 542,
+    "parent": 11,
+    "Category": "Architectural Plans",
+    "Value": 1054807
+  },
+  {
+    "id": 543,
+    "parent": 11,
+    "Category": "Postage Stamps",
+    "Value": 15235141
+  },
+  {
+    "id": 544,
+    "parent": 11,
+    "Category": "Decals",
+    "Value": 17057605
+  },
+  {
+    "id": 545,
+    "parent": 11,
+    "Category": "Postcards",
+    "Value": 61876343
+  },
+  {
+    "id": 546,
+    "parent": 11,
+    "Category": "Calendars",
+    "Value": 7823377
+  },
+  {
+    "id": 547,
+    "parent": 11,
+    "Category": "Other Printed Material",
+    "Value": 88586664
+  },
+  {
+    "id": 548,
+    "parent": 12,
+    "Category": "Silkworm Cocoons",
+    "Value": 2293
+  },
+  {
+    "id": 549,
+    "parent": 12,
+    "Category": "Raw Silk",
+    "Value": 33786534
+  },
+  {
+    "id": 550,
+    "parent": 12,
+    "Category": "Silk Waste",
+    "Value": 4717535
+  },
+  {
+    "id": 551,
+    "parent": 12,
+    "Category": "Non-Retail Silk Yarn",
+    "Value": 9351233
+  },
+  {
+    "id": 552,
+    "parent": 12,
+    "Category": "Silk Waste Yarn",
+    "Value": 8276639
+  },
+  {
+    "id": 553,
+    "parent": 12,
+    "Category": "Retail Silk Yarn",
+    "Value": 61759
+  },
+  {
+    "id": 554,
+    "parent": 12,
+    "Category": "Silk Fabrics",
+    "Value": 49667025
+  },
+  {
+    "id": 555,
+    "parent": 12,
+    "Category": "Wool",
+    "Value": 2821405
+  },
+  {
+    "id": 556,
+    "parent": 12,
+    "Category": "Wool or Animal Hair Waste",
+    "Value": 1246162
+  },
+  {
+    "id": 557,
+    "parent": 12,
+    "Category": "Garnetted Wool or Animal Hair",
+    "Value": 51769
+  },
+  {
+    "id": 558,
+    "parent": 12,
+    "Category": "Prepared Wool or Animal Hair",
+    "Value": 78164176
+  },
+  {
+    "id": 559,
+    "parent": 12,
+    "Category": "Non-Retail Carded Wool Yarn",
+    "Value": 6644380
+  },
+  {
+    "id": 560,
+    "parent": 12,
+    "Category": "Non-Retail Combed Wool Yarn",
+    "Value": 28930086
+  },
+  {
+    "id": 561,
+    "parent": 12,
+    "Category": "Non-Retail Animal Hair Yarn",
+    "Value": 30912048
+  },
+  {
+    "id": 562,
+    "parent": 12,
+    "Category": "Retail Wool or Animal Hair Yarn",
+    "Value": 3855248
+  },
+  {
+    "id": 563,
+    "parent": 12,
+    "Category": "Horsehair Yarn",
+    "Value": 19323
+  },
+  {
+    "id": 564,
+    "parent": 12,
+    "Category": "Carded Wool or Animal Hair Fabric",
+    "Value": 5858657
+  },
+  {
+    "id": 565,
+    "parent": 12,
+    "Category": "Combed Wool or Animal Hair Fabric",
+    "Value": 23084914
+  },
+  {
+    "id": 566,
+    "parent": 12,
+    "Category": "Horsehair Fabric",
+    "Value": 238598
+  },
+  {
+    "id": 567,
+    "parent": 12,
+    "Category": "Raw Cotton",
+    "Value": 4545551
+  },
+  {
+    "id": 568,
+    "parent": 12,
+    "Category": "Cotton Waste",
+    "Value": 37247
+  },
+  {
+    "id": 569,
+    "parent": 12,
+    "Category": "Cotton Sewing Thread",
+    "Value": 1488553
+  },
+  {
+    "id": 570,
+    "parent": 12,
+    "Category": "Non-Retail Pure Cotton Yarn",
+    "Value": 114058958
+  },
+  {
+    "id": 571,
+    "parent": 12,
+    "Category": "Non-Retail Mixed Cotton Yarn",
+    "Value": 27440308
+  },
+  {
+    "id": 572,
+    "parent": 12,
+    "Category": "Retail Cotton Yarn",
+    "Value": 2100186
+  },
+  {
+    "id": 573,
+    "parent": 12,
+    "Category": "Light Pure Woven Cotton",
+    "Value": 629705742
+  },
+  {
+    "id": 574,
+    "parent": 12,
+    "Category": "Heavy Pure Woven Cotton",
+    "Value": 215281616
+  },
+  {
+    "id": 575,
+    "parent": 12,
+    "Category": "Light Mixed Woven Cotton",
+    "Value": 78845147
+  },
+  {
+    "id": 576,
+    "parent": 12,
+    "Category": "Heavy Mixed Woven Cotton",
+    "Value": 190238007
+  },
+  {
+    "id": 577,
+    "parent": 12,
+    "Category": "Other Cotton Fabrics",
+    "Value": 12311919
+  },
+  {
+    "id": 578,
+    "parent": 12,
+    "Category": "Flax Fibers",
+    "Value": 168024
+  },
+  {
+    "id": 579,
+    "parent": 12,
+    "Category": "Hemp Fibers",
+    "Value": 11750
+  },
+  {
+    "id": 580,
+    "parent": 12,
+    "Category": "Jute and Other Textile Fibers",
+    "Value": 31193
+  },
+  {
+    "id": 581,
+    "parent": 12,
+    "Category": "Coconut and Other Vegetable Fibers",
+    "Value": 296492
+  },
+  {
+    "id": 582,
+    "parent": 12,
+    "Category": "Flax Yarn",
+    "Value": 22415121
+  },
+  {
+    "id": 583,
+    "parent": 12,
+    "Category": "Jute Yarn",
+    "Value": 189287
+  },
+  {
+    "id": 584,
+    "parent": 12,
+    "Category": "Other Vegetable Fibers Yarn",
+    "Value": 2406713
+  },
+  {
+    "id": 585,
+    "parent": 12,
+    "Category": "Flax Woven Fabric",
+    "Value": 95739178
+  },
+  {
+    "id": 586,
+    "parent": 12,
+    "Category": "Jute Woven Fabric",
+    "Value": 543630
+  },
+  {
+    "id": 587,
+    "parent": 12,
+    "Category": "Other Vegetable Fibers Fabric",
+    "Value": 26935432
+  },
+  {
+    "id": 588,
+    "parent": 12,
+    "Category": "Artificial Filament Sewing Thread",
+    "Value": 32031934
+  },
+  {
+    "id": 589,
+    "parent": 12,
+    "Category": "Non-Retail Synthetic Filament Yarn",
+    "Value": 442750801
+  },
+  {
+    "id": 590,
+    "parent": 12,
+    "Category": "Non-Retail Artificial Filament Yarn",
+    "Value": 40943614
+  },
+  {
+    "id": 591,
+    "parent": 12,
+    "Category": "Synthetic Monofilament",
+    "Value": 17450653
+  },
+  {
+    "id": 592,
+    "parent": 12,
+    "Category": "Artificial Monofilament",
+    "Value": 434740
+  },
+  {
+    "id": 593,
+    "parent": 12,
+    "Category": "Retail Artificial Filament Yarn",
+    "Value": 6534822
+  },
+  {
+    "id": 594,
+    "parent": 12,
+    "Category": "Synthetic Filament Yarn Woven Fabric",
+    "Value": 1152346807
+  },
+  {
+    "id": 595,
+    "parent": 12,
+    "Category": "Artificial Filament Yarn Woven Fabric",
+    "Value": 27919733
+  },
+  {
+    "id": 596,
+    "parent": 12,
+    "Category": "Synthetic Filament Tow",
+    "Value": 6463769
+  },
+  {
+    "id": 597,
+    "parent": 12,
+    "Category": "Artificial Filament Tow",
+    "Value": 7123282
+  },
+  {
+    "id": 598,
+    "parent": 12,
+    "Category": "Unprocessed Synthetic Staple Fibers",
+    "Value": 118627629
+  },
+  {
+    "id": 599,
+    "parent": 12,
+    "Category": "Unprocessed Artificial Staple Fibers",
+    "Value": 48391094
+  },
+  {
+    "id": 600,
+    "parent": 12,
+    "Category": "Artificial Fibers Waste",
+    "Value": 9513
+  },
+  {
+    "id": 601,
+    "parent": 12,
+    "Category": "Processed Synthetic Staple Fibers",
+    "Value": 2162502
+  },
+  {
+    "id": 602,
+    "parent": 12,
+    "Category": "Processed Artificial Staple Fibers",
+    "Value": 603754
+  },
+  {
+    "id": 603,
+    "parent": 12,
+    "Category": "Non-Retail Artificial Staple Fibers Sewing Thread",
+    "Value": 35523713
+  },
+  {
+    "id": 604,
+    "parent": 12,
+    "Category": "Non-Retail Synthetic Staple Fibers Yarn",
+    "Value": 149017375
+  },
+  {
+    "id": 605,
+    "parent": 12,
+    "Category": "Non-Retail Artificial Staple Fibers Yarn",
+    "Value": 33880723
+  },
+  {
+    "id": 606,
+    "parent": 12,
+    "Category": "Retail Artificial Staple Fibers Yarn",
+    "Value": 4283616
+  },
+  {
+    "id": 607,
+    "parent": 12,
+    "Category": "Synthetic Fabrics",
+    "Value": 89691566
+  },
+  {
+    "id": 608,
+    "parent": 12,
+    "Category": "Light Synthetic Cotton Fabrics",
+    "Value": 127374884
+  },
+  {
+    "id": 609,
+    "parent": 12,
+    "Category": "Heavy Synthetic Cotton Fabrics",
+    "Value": 59267173
+  },
+  {
+    "id": 610,
+    "parent": 12,
+    "Category": "Other Synthetic Fabrics",
+    "Value": 123954151
+  },
+  {
+    "id": 611,
+    "parent": 12,
+    "Category": "Woven Fabric of Synthetic Staple Fibers",
+    "Value": 310034747
+  },
+  {
+    "id": 612,
+    "parent": 12,
+    "Category": "Wadding",
+    "Value": 28023301
+  },
+  {
+    "id": 613,
+    "parent": 12,
+    "Category": "Felt",
+    "Value": 13226244
+  },
+  {
+    "id": 614,
+    "parent": 12,
+    "Category": "Non-woven Textiles",
+    "Value": 246879588
+  },
+  {
+    "id": 615,
+    "parent": 12,
+    "Category": "Rubber Textiles",
+    "Value": 23014293
+  },
+  {
+    "id": 616,
+    "parent": 12,
+    "Category": "Metallic Yarn",
+    "Value": 8225723
+  },
+  {
+    "id": 617,
+    "parent": 12,
+    "Category": "Gimp Yarn",
+    "Value": 8047642
+  },
+  {
+    "id": 618,
+    "parent": 12,
+    "Category": "Twine and Rope",
+    "Value": 66666785
+  },
+  {
+    "id": 619,
+    "parent": 12,
+    "Category": "Netting",
+    "Value": 58095186
+  },
+  {
+    "id": 620,
+    "parent": 12,
+    "Category": "Other Articles of Twine and Rope",
+    "Value": 24974493
+  },
+  {
+    "id": 621,
+    "parent": 12,
+    "Category": "Knotted Carpets",
+    "Value": 6221680
+  },
+  {
+    "id": 622,
+    "parent": 12,
+    "Category": "Hand-Woven Rugs",
+    "Value": 42723967
+  },
+  {
+    "id": 623,
+    "parent": 12,
+    "Category": "Tufted Carpets",
+    "Value": 135018936
+  },
+  {
+    "id": 624,
+    "parent": 12,
+    "Category": "Felt Carpets",
+    "Value": 2322379
+  },
+  {
+    "id": 625,
+    "parent": 12,
+    "Category": "Other Carpets",
+    "Value": 76566564
+  },
+  {
+    "id": 626,
+    "parent": 12,
+    "Category": "Woven Fabrics",
+    "Value": 79868516
+  },
+  {
+    "id": 627,
+    "parent": 12,
+    "Category": "Terry Fabric",
+    "Value": 6538123
+  },
+  {
+    "id": 628,
+    "parent": 12,
+    "Category": "Gauze",
+    "Value": 541660
+  },
+  {
+    "id": 629,
+    "parent": 12,
+    "Category": "Tulles and Net Fabric",
+    "Value": 67653740
+  },
+  {
+    "id": 630,
+    "parent": 12,
+    "Category": "Hand-Woven Tapestries",
+    "Value": 1698381
+  },
+  {
+    "id": 631,
+    "parent": 12,
+    "Category": "Narrow Woven Fabric",
+    "Value": 152616903
+  },
+  {
+    "id": 632,
+    "parent": 12,
+    "Category": "Labels",
+    "Value": 33329617
+  },
+  {
+    "id": 633,
+    "parent": 12,
+    "Category": "Ornamental Trimmings",
+    "Value": 13520666
+  },
+  {
+    "id": 634,
+    "parent": 12,
+    "Category": "Metallic Fabric",
+    "Value": 290370
+  },
+  {
+    "id": 635,
+    "parent": 12,
+    "Category": "Embroidery",
+    "Value": 91616122
+  },
+  {
+    "id": 636,
+    "parent": 12,
+    "Category": "Quilted Textiles",
+    "Value": 5182027
+  },
+  {
+    "id": 637,
+    "parent": 12,
+    "Category": "Gum Coated Textile Fabric",
+    "Value": 31506780
+  },
+  {
+    "id": 638,
+    "parent": 12,
+    "Category": "Polyamide Fabric",
+    "Value": 57279430
+  },
+  {
+    "id": 639,
+    "parent": 12,
+    "Category": "Plastic Coated Textile Fabric",
+    "Value": 495704993
+  },
+  {
+    "id": 640,
+    "parent": 12,
+    "Category": "Linoleum",
+    "Value": 1224408
+  },
+  {
+    "id": 641,
+    "parent": 12,
+    "Category": "Textile Wall Coverings",
+    "Value": 1907588
+  },
+  {
+    "id": 642,
+    "parent": 12,
+    "Category": "Rubber Textile Fabric",
+    "Value": 16327571
+  },
+  {
+    "id": 643,
+    "parent": 12,
+    "Category": "Coated Textile Fabric",
+    "Value": 31400886
+  },
+  {
+    "id": 644,
+    "parent": 12,
+    "Category": "Textile Wicks",
+    "Value": 748267
+  },
+  {
+    "id": 645,
+    "parent": 12,
+    "Category": "Hose Piping Textiles",
+    "Value": 12244376
+  },
+  {
+    "id": 646,
+    "parent": 12,
+    "Category": "Conveyor Belt Textiles",
+    "Value": 7459777
+  },
+  {
+    "id": 647,
+    "parent": 12,
+    "Category": "Technical Use Textiles",
+    "Value": 58037263
+  },
+  {
+    "id": 648,
+    "parent": 12,
+    "Category": "Pile Fabric",
+    "Value": 259319133
+  },
+  {
+    "id": 649,
+    "parent": 12,
+    "Category": "Light Rubberized Knitted Fabric",
+    "Value": 11371946
+  },
+  {
+    "id": 650,
+    "parent": 12,
+    "Category": "Knitted or crocheted fabrics of a width not exceeding 30 cm",
+    "Value": 3682753
+  },
+  {
+    "id": 651,
+    "parent": 12,
+    "Category": "Knitted or crocheted fabrics of a width exceeding 30 cm",
+    "Value": 298072662
+  },
+  {
+    "id": 652,
+    "parent": 12,
+    "Category": "Warp knit fabrics (including those made on galloon knitting machines)",
+    "Value": 91963613
+  },
+  {
+    "id": 653,
+    "parent": 12,
+    "Category": "Other knitted or crocheted fabrics.",
+    "Value": 799762951
+  },
+  {
+    "id": 654,
+    "parent": 12,
+    "Category": "Knit Men's Coats",
+    "Value": 26911419
+  },
+  {
+    "id": 655,
+    "parent": 12,
+    "Category": "Knit Women's Coats",
+    "Value": 35970506
+  },
+  {
+    "id": 656,
+    "parent": 12,
+    "Category": "Knit Men's Suits",
+    "Value": 529778771
+  },
+  {
+    "id": 657,
+    "parent": 12,
+    "Category": "Knit Women's Suits",
+    "Value": 1387028275
+  },
+  {
+    "id": 658,
+    "parent": 12,
+    "Category": "Knit Men's Shirts",
+    "Value": 104083301
+  },
+  {
+    "id": 659,
+    "parent": 12,
+    "Category": "Knit Women's Shirts",
+    "Value": 24311819
+  },
+  {
+    "id": 660,
+    "parent": 12,
+    "Category": "Knit Men's Undergarments",
+    "Value": 217451814
+  },
+  {
+    "id": 661,
+    "parent": 12,
+    "Category": "Knit Women's Undergarments",
+    "Value": 456265299
+  },
+  {
+    "id": 662,
+    "parent": 12,
+    "Category": "Knit T-shirts",
+    "Value": 809013396
+  },
+  {
+    "id": 663,
+    "parent": 12,
+    "Category": "Knit Sweaters",
+    "Value": 1445139719
+  },
+  {
+    "id": 664,
+    "parent": 12,
+    "Category": "Knit Babies' Garments",
+    "Value": 224086432
+  },
+  {
+    "id": 665,
+    "parent": 12,
+    "Category": "Knit Active Wear",
+    "Value": 216114996
+  },
+  {
+    "id": 666,
+    "parent": 12,
+    "Category": "Garments of Impregnated Fabric",
+    "Value": 19880658
+  },
+  {
+    "id": 667,
+    "parent": 12,
+    "Category": "Other Knit Garments",
+    "Value": 99118371
+  },
+  {
+    "id": 668,
+    "parent": 12,
+    "Category": "Knit Socks and Hosiery",
+    "Value": 496104818
+  },
+  {
+    "id": 669,
+    "parent": 12,
+    "Category": "Knit Gloves",
+    "Value": 222175692
+  },
+  {
+    "id": 670,
+    "parent": 12,
+    "Category": "Other Knit Clothing Accessories",
+    "Value": 123467182
+  },
+  {
+    "id": 671,
+    "parent": 12,
+    "Category": "Non-Knit Men's Coats",
+    "Value": 401198955
+  },
+  {
+    "id": 672,
+    "parent": 12,
+    "Category": "Non-Knit Women's Coats",
+    "Value": 655644201
+  },
+  {
+    "id": 673,
+    "parent": 12,
+    "Category": "Non-Knit Men's Suits",
+    "Value": 1067440752
+  },
+  {
+    "id": 674,
+    "parent": 12,
+    "Category": "Non-Knit Women's Suits",
+    "Value": 2246977056
+  },
+  {
+    "id": 675,
+    "parent": 12,
+    "Category": "Non-Knit Men's Shirts",
+    "Value": 241691773
+  },
+  {
+    "id": 676,
+    "parent": 12,
+    "Category": "Non-Knit Women's Shirts",
+    "Value": 171304900
+  },
+  {
+    "id": 677,
+    "parent": 12,
+    "Category": "Non-Knit Men's Undergarments",
+    "Value": 34739399
+  },
+  {
+    "id": 678,
+    "parent": 12,
+    "Category": "Non-Knit Women's Undergarments",
+    "Value": 81073195
+  },
+  {
+    "id": 679,
+    "parent": 12,
+    "Category": "Non-Knit Babies' Garments",
+    "Value": 52533458
+  },
+  {
+    "id": 680,
+    "parent": 12,
+    "Category": "Felt or Coated Fabric Garments",
+    "Value": 345245981
+  },
+  {
+    "id": 681,
+    "parent": 12,
+    "Category": "Non-Knit Active Wear",
+    "Value": 327350719
+  },
+  {
+    "id": 682,
+    "parent": 12,
+    "Category": "Other Women's Undergarments",
+    "Value": 396538057
+  },
+  {
+    "id": 683,
+    "parent": 12,
+    "Category": "Handkerchiefs",
+    "Value": 11544474
+  },
+  {
+    "id": 684,
+    "parent": 12,
+    "Category": "Scarves",
+    "Value": 153410023
+  },
+  {
+    "id": 685,
+    "parent": 12,
+    "Category": "Neck Ties",
+    "Value": 30379711
+  },
+  {
+    "id": 686,
+    "parent": 12,
+    "Category": "Non-Knit Gloves",
+    "Value": 25363345
+  },
+  {
+    "id": 687,
+    "parent": 12,
+    "Category": "Other Non-Knit Clothing Accessories",
+    "Value": 33048210
+  },
+  {
+    "id": 688,
+    "parent": 12,
+    "Category": "Blankets",
+    "Value": 316027967
+  },
+  {
+    "id": 689,
+    "parent": 12,
+    "Category": "House Linens",
+    "Value": 732396114
+  },
+  {
+    "id": 690,
+    "parent": 12,
+    "Category": "Window Dressings",
+    "Value": 218474644
+  },
+  {
+    "id": 691,
+    "parent": 12,
+    "Category": "Bedspreads",
+    "Value": 190644831
+  },
+  {
+    "id": 692,
+    "parent": 12,
+    "Category": "Packing Bags",
+    "Value": 158315403
+  },
+  {
+    "id": 693,
+    "parent": 12,
+    "Category": "Awnings, Tents, and Sails",
+    "Value": 225001566
+  },
+  {
+    "id": 694,
+    "parent": 12,
+    "Category": "Other Cloth Articles",
+    "Value": 558555290
+  },
+  {
+    "id": 695,
+    "parent": 12,
+    "Category": "Packaged Sewing Sets",
+    "Value": 1217763
+  },
+  {
+    "id": 696,
+    "parent": 12,
+    "Category": "Used Clothing",
+    "Value": 23640969
+  },
+  {
+    "id": 697,
+    "parent": 12,
+    "Category": "Textile Scraps",
+    "Value": 2101747
+  },
+  {
+    "id": 698,
+    "parent": 13,
+    "Category": "Waterproof Footwear",
+    "Value": 54958373
+  },
+  {
+    "id": 699,
+    "parent": 13,
+    "Category": "Rubber Footwear",
+    "Value": 1942563508
+  },
+  {
+    "id": 700,
+    "parent": 13,
+    "Category": "Leather Footwear",
+    "Value": 874831583
+  },
+  {
+    "id": 701,
+    "parent": 13,
+    "Category": "Textile Footwear",
+    "Value": 1408353980
+  },
+  {
+    "id": 702,
+    "parent": 13,
+    "Category": "Other Footwear",
+    "Value": 89341496
+  },
+  {
+    "id": 703,
+    "parent": 13,
+    "Category": "Footwear Parts",
+    "Value": 244527704
+  },
+  {
+    "id": 704,
+    "parent": 13,
+    "Category": "Hat Forms",
+    "Value": 314616
+  },
+  {
+    "id": 705,
+    "parent": 13,
+    "Category": "Hat Shapes",
+    "Value": 821582
+  },
+  {
+    "id": 706,
+    "parent": 13,
+    "Category": "Hats",
+    "Value": 27393319
+  },
+  {
+    "id": 707,
+    "parent": 13,
+    "Category": "Knitted Hats",
+    "Value": 222980516
+  },
+  {
+    "id": 708,
+    "parent": 13,
+    "Category": "Other Headwear",
+    "Value": 140883387
+  },
+  {
+    "id": 709,
+    "parent": 13,
+    "Category": "Headbands and Linings",
+    "Value": 6099363
+  },
+  {
+    "id": 710,
+    "parent": 13,
+    "Category": "Umbrellas",
+    "Value": 234040544
+  },
+  {
+    "id": 711,
+    "parent": 13,
+    "Category": "Walking Sticks",
+    "Value": 12464625
+  },
+  {
+    "id": 712,
+    "parent": 13,
+    "Category": "Umbrella and Walking Stick Accessories",
+    "Value": 21752032
+  },
+  {
+    "id": 713,
+    "parent": 13,
+    "Category": "Bird Skins and Feathers",
+    "Value": 5336430
+  },
+  {
+    "id": 714,
+    "parent": 13,
+    "Category": "Artificial Vegetation",
+    "Value": 424144347
+  },
+  {
+    "id": 715,
+    "parent": 13,
+    "Category": "Processed Hair",
+    "Value": 6564903
+  },
+  {
+    "id": 716,
+    "parent": 13,
+    "Category": "Fake Hair",
+    "Value": 282317046
+  },
+  {
+    "id": 717,
+    "parent": 14,
+    "Category": "Curbstones",
+    "Value": 21603360
+  },
+  {
+    "id": 718,
+    "parent": 14,
+    "Category": "Building Stone",
+    "Value": 382317584
+  },
+  {
+    "id": 719,
+    "parent": 14,
+    "Category": "Slate",
+    "Value": 13125329
+  },
+  {
+    "id": 720,
+    "parent": 14,
+    "Category": "Milling Stones",
+    "Value": 82584122
+  },
+  {
+    "id": 721,
+    "parent": 14,
+    "Category": "Abrasive Powder",
+    "Value": 36814643
+  },
+  {
+    "id": 722,
+    "parent": 14,
+    "Category": "Rock Wool",
+    "Value": 29065820
+  },
+  {
+    "id": 723,
+    "parent": 14,
+    "Category": "Asphalt",
+    "Value": 48961608
+  },
+  {
+    "id": 724,
+    "parent": 14,
+    "Category": "Vegetable Fiber",
+    "Value": 14134889
+  },
+  {
+    "id": 725,
+    "parent": 14,
+    "Category": "Plaster Articles",
+    "Value": 22759374
+  },
+  {
+    "id": 726,
+    "parent": 14,
+    "Category": "Cement Articles",
+    "Value": 382428005
+  },
+  {
+    "id": 727,
+    "parent": 14,
+    "Category": "Asbestos Cement Articles",
+    "Value": 10238436
+  },
+  {
+    "id": 728,
+    "parent": 14,
+    "Category": "Asbestos Fibres",
+    "Value": 3210393
+  },
+  {
+    "id": 729,
+    "parent": 14,
+    "Category": "Friction Material",
+    "Value": 6145495
+  },
+  {
+    "id": 730,
+    "parent": 14,
+    "Category": "Mica",
+    "Value": 5647472
+  },
+  {
+    "id": 731,
+    "parent": 14,
+    "Category": "Other Stone Articles",
+    "Value": 79510906
+  },
+  {
+    "id": 732,
+    "parent": 14,
+    "Category": "Bricks",
+    "Value": 2257037
+  },
+  {
+    "id": 733,
+    "parent": 14,
+    "Category": "Refractory Bricks",
+    "Value": 139549590
+  },
+  {
+    "id": 734,
+    "parent": 14,
+    "Category": "Refractory Ceramics",
+    "Value": 25025697
+  },
+  {
+    "id": 735,
+    "parent": 14,
+    "Category": "Ceramic Bricks",
+    "Value": 52997229
+  },
+  {
+    "id": 736,
+    "parent": 14,
+    "Category": "Roofing Tiles",
+    "Value": 4224316
+  },
+  {
+    "id": 737,
+    "parent": 14,
+    "Category": "Ceramic Pipes",
+    "Value": 4077261
+  },
+  {
+    "id": 738,
+    "parent": 14,
+    "Category": "Unglazed Ceramics",
+    "Value": 399698837
+  },
+  {
+    "id": 739,
+    "parent": 14,
+    "Category": "Laboratory Ceramic Ware",
+    "Value": 49760251
+  },
+  {
+    "id": 740,
+    "parent": 14,
+    "Category": "Bathroom Ceramics",
+    "Value": 585145960
+  },
+  {
+    "id": 741,
+    "parent": 14,
+    "Category": "Porcelain Tableware",
+    "Value": 572598726
+  },
+  {
+    "id": 742,
+    "parent": 14,
+    "Category": "Ceramic Tableware",
+    "Value": 41124990
+  },
+  {
+    "id": 743,
+    "parent": 14,
+    "Category": "Ornamental Ceramics",
+    "Value": 189014142
+  },
+  {
+    "id": 744,
+    "parent": 14,
+    "Category": "Other Ceramic Articles",
+    "Value": 90675825
+  },
+  {
+    "id": 745,
+    "parent": 14,
+    "Category": "Glass Scraps",
+    "Value": 4662308
+  },
+  {
+    "id": 746,
+    "parent": 14,
+    "Category": "Glass Balls",
+    "Value": 15576484
+  },
+  {
+    "id": 747,
+    "parent": 14,
+    "Category": "Cast or Rolled Glass",
+    "Value": 68071326
+  },
+  {
+    "id": 748,
+    "parent": 14,
+    "Category": "Blown Glass",
+    "Value": 1795811
+  },
+  {
+    "id": 749,
+    "parent": 14,
+    "Category": "Float Glass",
+    "Value": 51468057
+  },
+  {
+    "id": 750,
+    "parent": 14,
+    "Category": "Glass with Edge Workings",
+    "Value": 54526393
+  },
+  {
+    "id": 751,
+    "parent": 14,
+    "Category": "Safety Glass",
+    "Value": 225184442
+  },
+  {
+    "id": 752,
+    "parent": 14,
+    "Category": "Insulating Glass",
+    "Value": 18935570
+  },
+  {
+    "id": 753,
+    "parent": 14,
+    "Category": "Glass Mirrors",
+    "Value": 169648238
+  },
+  {
+    "id": 754,
+    "parent": 14,
+    "Category": "Glass Bottles",
+    "Value": 139306939
+  },
+  {
+    "id": 755,
+    "parent": 14,
+    "Category": "Glass Bulbs",
+    "Value": 1065489
+  },
+  {
+    "id": 756,
+    "parent": 14,
+    "Category": "Interior Decorative Glassware",
+    "Value": 299608240
+  },
+  {
+    "id": 757,
+    "parent": 14,
+    "Category": "Signaling Glassware",
+    "Value": 9388096
+  },
+  {
+    "id": 758,
+    "parent": 14,
+    "Category": "Eyewear and Clock Glass",
+    "Value": 2997738
+  },
+  {
+    "id": 759,
+    "parent": 14,
+    "Category": "Glass Bricks",
+    "Value": 55558117
+  },
+  {
+    "id": 760,
+    "parent": 14,
+    "Category": "Laboratory Glassware",
+    "Value": 9326249
+  },
+  {
+    "id": 761,
+    "parent": 14,
+    "Category": "Glass Beads",
+    "Value": 102145695
+  },
+  {
+    "id": 762,
+    "parent": 14,
+    "Category": "Glass Fibers",
+    "Value": 210848166
+  },
+  {
+    "id": 763,
+    "parent": 14,
+    "Category": "Other Glass Articles",
+    "Value": 59779003
+  },
+  {
+    "id": 764,
+    "parent": 15,
+    "Category": "Pearls",
+    "Value": 3442146
+  },
+  {
+    "id": 765,
+    "parent": 15,
+    "Category": "Diamonds",
+    "Value": 114369701
+  },
+  {
+    "id": 766,
+    "parent": 15,
+    "Category": "Precious Stones",
+    "Value": 966408
+  },
+  {
+    "id": 767,
+    "parent": 15,
+    "Category": "Synthetic Reconstructed Jewellery Stones",
+    "Value": 19664420
+  },
+  {
+    "id": 768,
+    "parent": 15,
+    "Category": "Precious Stone Dust",
+    "Value": 19146367
+  },
+  {
+    "id": 769,
+    "parent": 15,
+    "Category": "Silver",
+    "Value": 135756720
+  },
+  {
+    "id": 770,
+    "parent": 15,
+    "Category": "Silver Clad Metals",
+    "Value": 87952
+  },
+  {
+    "id": 771,
+    "parent": 15,
+    "Category": "Gold",
+    "Value": 111561964
+  },
+  {
+    "id": 772,
+    "parent": 15,
+    "Category": "Gold Clad Metals",
+    "Value": 57328
+  },
+  {
+    "id": 773,
+    "parent": 15,
+    "Category": "Platinum",
+    "Value": 1795323
+  },
+  {
+    "id": 774,
+    "parent": 15,
+    "Category": "Precious Metal Scraps",
+    "Value": 5591679
+  },
+  {
+    "id": 775,
+    "parent": 15,
+    "Category": "Jewellery",
+    "Value": 1137931205
+  },
+  {
+    "id": 776,
+    "parent": 15,
+    "Category": "Metal-Clad Products",
+    "Value": 26718449
+  },
+  {
+    "id": 777,
+    "parent": 15,
+    "Category": "Other Precious Metal Products",
+    "Value": 95241229
+  },
+  {
+    "id": 778,
+    "parent": 15,
+    "Category": "Pearl Products",
+    "Value": 30330281
+  },
+  {
+    "id": 779,
+    "parent": 15,
+    "Category": "Imitation Jewellery",
+    "Value": 204681424
+  },
+  {
+    "id": 780,
+    "parent": 15,
+    "Category": "Coin",
+    "Value": 43364
+  },
+  {
+    "id": 781,
+    "parent": 16,
+    "Category": "Pig Iron",
+    "Value": 130013
+  },
+  {
+    "id": 782,
+    "parent": 16,
+    "Category": "Ferroalloys",
+    "Value": 112901016
+  },
+  {
+    "id": 783,
+    "parent": 16,
+    "Category": "Iron Reductions",
+    "Value": 2554
+  },
+  {
+    "id": 784,
+    "parent": 16,
+    "Category": "Scrap Iron",
+    "Value": 25266357
+  },
+  {
+    "id": 785,
+    "parent": 16,
+    "Category": "Iron Powder",
+    "Value": 11677913
+  },
+  {
+    "id": 786,
+    "parent": 16,
+    "Category": "Iron Ingots",
+    "Value": 11320
+  },
+  {
+    "id": 787,
+    "parent": 16,
+    "Category": "Semi-Finished Iron",
+    "Value": 10578
+  },
+  {
+    "id": 788,
+    "parent": 16,
+    "Category": "Hot-Rolled Iron",
+    "Value": 10643090
+  },
+  {
+    "id": 789,
+    "parent": 16,
+    "Category": "Cold-Rolled Iron",
+    "Value": 159332056
+  },
+  {
+    "id": 790,
+    "parent": 16,
+    "Category": "Coated Flat-Rolled Iron",
+    "Value": 1125574279
+  },
+  {
+    "id": 791,
+    "parent": 16,
+    "Category": "Large Flat-Rolled Iron",
+    "Value": 18549601
+  },
+  {
+    "id": 792,
+    "parent": 16,
+    "Category": "Large Coated Flat-Rolled Iron",
+    "Value": 18521599
+  },
+  {
+    "id": 793,
+    "parent": 16,
+    "Category": "Hot-Rolled Iron Bars",
+    "Value": 1797512
+  },
+  {
+    "id": 794,
+    "parent": 16,
+    "Category": "Raw Iron Bars",
+    "Value": 9367119
+  },
+  {
+    "id": 795,
+    "parent": 16,
+    "Category": "Other Iron Bars",
+    "Value": 694534
+  },
+  {
+    "id": 796,
+    "parent": 16,
+    "Category": "Iron Blocks",
+    "Value": 69825017
+  },
+  {
+    "id": 797,
+    "parent": 16,
+    "Category": "Iron Wire",
+    "Value": 130126495
+  },
+  {
+    "id": 798,
+    "parent": 16,
+    "Category": "Stainless Steel Ingots",
+    "Value": 5739
+  },
+  {
+    "id": 799,
+    "parent": 16,
+    "Category": "Large Flat-Rolled Stainless Steel",
+    "Value": 427215485
+  },
+  {
+    "id": 800,
+    "parent": 16,
+    "Category": "Flat-Rolled Stainless Steel",
+    "Value": 30748031
+  },
+  {
+    "id": 801,
+    "parent": 16,
+    "Category": "Hot-Rolled Stainless Steel Bars",
+    "Value": 13333235
+  },
+  {
+    "id": 802,
+    "parent": 16,
+    "Category": "Other Stainless Steel Bars",
+    "Value": 15737825
+  },
+  {
+    "id": 803,
+    "parent": 16,
+    "Category": "Stainless Steel Wire",
+    "Value": 22707275
+  },
+  {
+    "id": 804,
+    "parent": 16,
+    "Category": "Steel Ingots",
+    "Value": 225699
+  },
+  {
+    "id": 805,
+    "parent": 16,
+    "Category": "Flat Flat-Rolled Steel",
+    "Value": 648741608
+  },
+  {
+    "id": 806,
+    "parent": 16,
+    "Category": "Flat-Rolled Iron",
+    "Value": 14629337
+  },
+  {
+    "id": 807,
+    "parent": 16,
+    "Category": "Steel Bars",
+    "Value": 208533788
+  },
+  {
+    "id": 808,
+    "parent": 16,
+    "Category": "Other Steel Bars",
+    "Value": 560524340
+  },
+  {
+    "id": 809,
+    "parent": 16,
+    "Category": "Steel Wire",
+    "Value": 32606247
+  },
+  {
+    "id": 810,
+    "parent": 16,
+    "Category": "Iron Sheet Piling",
+    "Value": 16551730
+  },
+  {
+    "id": 811,
+    "parent": 16,
+    "Category": "Iron Railway Products",
+    "Value": 13690018
+  },
+  {
+    "id": 812,
+    "parent": 16,
+    "Category": "Cast Iron Pipes",
+    "Value": 43749827
+  },
+  {
+    "id": 813,
+    "parent": 16,
+    "Category": "Iron Pipes",
+    "Value": 546359252
+  },
+  {
+    "id": 814,
+    "parent": 16,
+    "Category": "Other Large Iron Pipes",
+    "Value": 57494001
+  },
+  {
+    "id": 815,
+    "parent": 16,
+    "Category": "Other Small Iron Pipes",
+    "Value": 318386406
+  },
+  {
+    "id": 816,
+    "parent": 16,
+    "Category": "Iron Pipe Fittings",
+    "Value": 418829708
+  },
+  {
+    "id": 817,
+    "parent": 16,
+    "Category": "Iron Structures",
+    "Value": 1158430324
+  },
+  {
+    "id": 818,
+    "parent": 16,
+    "Category": "Large Iron Containers",
+    "Value": 30314832
+  },
+  {
+    "id": 819,
+    "parent": 16,
+    "Category": "Small Iron Containers",
+    "Value": 87762676
+  },
+  {
+    "id": 820,
+    "parent": 16,
+    "Category": "Iron Gas Containers",
+    "Value": 53266653
+  },
+  {
+    "id": 821,
+    "parent": 16,
+    "Category": "Stranded Iron Wire",
+    "Value": 157555205
+  },
+  {
+    "id": 822,
+    "parent": 16,
+    "Category": "Barbed Wire",
+    "Value": 6168282
+  },
+  {
+    "id": 823,
+    "parent": 16,
+    "Category": "Iron Cloth",
+    "Value": 106267548
+  },
+  {
+    "id": 824,
+    "parent": 16,
+    "Category": "Iron Chains",
+    "Value": 145311300
+  },
+  {
+    "id": 825,
+    "parent": 16,
+    "Category": "Iron Anchors",
+    "Value": 7177189
+  },
+  {
+    "id": 826,
+    "parent": 16,
+    "Category": "Iron Nails",
+    "Value": 134104069
+  },
+  {
+    "id": 827,
+    "parent": 16,
+    "Category": "Iron Fasteners",
+    "Value": 543031876
+  },
+  {
+    "id": 828,
+    "parent": 16,
+    "Category": "Iron Sewing Needles",
+    "Value": 9518399
+  },
+  {
+    "id": 829,
+    "parent": 16,
+    "Category": "Iron Springs",
+    "Value": 48179391
+  },
+  {
+    "id": 830,
+    "parent": 16,
+    "Category": "Iron Stovetops",
+    "Value": 438263810
+  },
+  {
+    "id": 831,
+    "parent": 16,
+    "Category": "Iron Radiators",
+    "Value": 11656134
+  },
+  {
+    "id": 832,
+    "parent": 16,
+    "Category": "Iron Housewares",
+    "Value": 723218703
+  },
+  {
+    "id": 833,
+    "parent": 16,
+    "Category": "Iron Toiletry",
+    "Value": 174925619
+  },
+  {
+    "id": 834,
+    "parent": 16,
+    "Category": "Other Cast Iron Products",
+    "Value": 68343989
+  },
+  {
+    "id": 835,
+    "parent": 16,
+    "Category": "Other Iron Products",
+    "Value": 824051863
+  },
+  {
+    "id": 836,
+    "parent": 16,
+    "Category": "Precipitated Copper",
+    "Value": 6931579
+  },
+  {
+    "id": 837,
+    "parent": 16,
+    "Category": "Refined Copper",
+    "Value": 281765746
+  },
+  {
+    "id": 838,
+    "parent": 16,
+    "Category": "Scrap Copper",
+    "Value": 139145
+  },
+  {
+    "id": 839,
+    "parent": 16,
+    "Category": "Copper Alloys",
+    "Value": 240094
+  },
+  {
+    "id": 840,
+    "parent": 16,
+    "Category": "Copper Powder",
+    "Value": 3630999
+  },
+  {
+    "id": 841,
+    "parent": 16,
+    "Category": "Copper Bars",
+    "Value": 5778899
+  },
+  {
+    "id": 842,
+    "parent": 16,
+    "Category": "Copper Wire",
+    "Value": 29755388
+  },
+  {
+    "id": 843,
+    "parent": 16,
+    "Category": "Copper Plating",
+    "Value": 29315077
+  },
+  {
+    "id": 844,
+    "parent": 16,
+    "Category": "Copper Foil",
+    "Value": 81507563
+  },
+  {
+    "id": 845,
+    "parent": 16,
+    "Category": "Copper Pipes",
+    "Value": 118073324
+  },
+  {
+    "id": 846,
+    "parent": 16,
+    "Category": "Copper Pipe Fittings",
+    "Value": 98940368
+  },
+  {
+    "id": 847,
+    "parent": 16,
+    "Category": "Stranded Copper Wire",
+    "Value": 6853077
+  },
+  {
+    "id": 848,
+    "parent": 16,
+    "Category": "Copper Fasteners",
+    "Value": 11218461
+  },
+  {
+    "id": 849,
+    "parent": 16,
+    "Category": "Copper Housewares",
+    "Value": 30026918
+  },
+  {
+    "id": 850,
+    "parent": 16,
+    "Category": "Other Copper Products",
+    "Value": 23459398
+  },
+  {
+    "id": 851,
+    "parent": 16,
+    "Category": "Raw Nickel",
+    "Value": 10313154
+  },
+  {
+    "id": 852,
+    "parent": 16,
+    "Category": "Scrap Nickel",
+    "Value": 467774
+  },
+  {
+    "id": 853,
+    "parent": 16,
+    "Category": "Nickel Powder",
+    "Value": 8453414
+  },
+  {
+    "id": 854,
+    "parent": 16,
+    "Category": "Nickel Bars",
+    "Value": 4696020
+  },
+  {
+    "id": 855,
+    "parent": 16,
+    "Category": "Nickel Sheets",
+    "Value": 2563172
+  },
+  {
+    "id": 856,
+    "parent": 16,
+    "Category": "Nickel Pipes",
+    "Value": 3286263
+  },
+  {
+    "id": 857,
+    "parent": 16,
+    "Category": "Other Nickel Products",
+    "Value": 2172258
+  },
+  {
+    "id": 858,
+    "parent": 16,
+    "Category": "Raw Aluminium",
+    "Value": 91537602
+  },
+  {
+    "id": 859,
+    "parent": 16,
+    "Category": "Scrap Aluminium",
+    "Value": 125299
+  },
+  {
+    "id": 860,
+    "parent": 16,
+    "Category": "Aluminium Powder",
+    "Value": 3674171
+  },
+  {
+    "id": 861,
+    "parent": 16,
+    "Category": "Aluminium Bars",
+    "Value": 237151232
+  },
+  {
+    "id": 862,
+    "parent": 16,
+    "Category": "Aluminium Wire",
+    "Value": 8823808
+  },
+  {
+    "id": 863,
+    "parent": 16,
+    "Category": "Aluminium Plating",
+    "Value": 557725320
+  },
+  {
+    "id": 864,
+    "parent": 16,
+    "Category": "Aluminium Foil",
+    "Value": 331074680
+  },
+  {
+    "id": 865,
+    "parent": 16,
+    "Category": "Aluminium Pipes",
+    "Value": 35418633
+  },
+  {
+    "id": 866,
+    "parent": 16,
+    "Category": "Aluminium Pipe Fittings",
+    "Value": 22990827
+  },
+  {
+    "id": 867,
+    "parent": 16,
+    "Category": "Aluminium Structures",
+    "Value": 352701093
+  },
+  {
+    "id": 868,
+    "parent": 16,
+    "Category": "Large Aluminium Containers",
+    "Value": 836449
+  },
+  {
+    "id": 869,
+    "parent": 16,
+    "Category": "Aluminium Cans",
+    "Value": 20476294
+  },
+  {
+    "id": 870,
+    "parent": 16,
+    "Category": "Aluminium Gas Containers",
+    "Value": 3971411
+  },
+  {
+    "id": 871,
+    "parent": 16,
+    "Category": "Stranded Aluminium Wire",
+    "Value": 58965277
+  },
+  {
+    "id": 872,
+    "parent": 16,
+    "Category": "Aluminium Housewares",
+    "Value": 235904055
+  },
+  {
+    "id": 873,
+    "parent": 16,
+    "Category": "Other Aluminium Products",
+    "Value": 301234071
+  },
+  {
+    "id": 874,
+    "parent": 16,
+    "Category": "Raw Lead",
+    "Value": 382595
+  },
+  {
+    "id": 875,
+    "parent": 16,
+    "Category": "Lead Sheets",
+    "Value": 3652694
+  },
+  {
+    "id": 876,
+    "parent": 16,
+    "Category": "Other Lead Products",
+    "Value": 4636915
+  },
+  {
+    "id": 877,
+    "parent": 16,
+    "Category": "Raw Zinc",
+    "Value": 6878737
+  },
+  {
+    "id": 878,
+    "parent": 16,
+    "Category": "Zinc Powder",
+    "Value": 147868
+  },
+  {
+    "id": 879,
+    "parent": 16,
+    "Category": "Zinc Bars",
+    "Value": 2335822
+  },
+  {
+    "id": 880,
+    "parent": 16,
+    "Category": "Zinc Sheets",
+    "Value": 1203105
+  },
+  {
+    "id": 881,
+    "parent": 16,
+    "Category": "Other Zinc Products",
+    "Value": 21880582
+  },
+  {
+    "id": 882,
+    "parent": 16,
+    "Category": "Raw Tin",
+    "Value": 229811
+  },
+  {
+    "id": 883,
+    "parent": 16,
+    "Category": "Tin Bars",
+    "Value": 553704
+  },
+  {
+    "id": 884,
+    "parent": 16,
+    "Category": "Other Tin Products",
+    "Value": 2496894
+  },
+  {
+    "id": 885,
+    "parent": 16,
+    "Category": "Tungsten",
+    "Value": 16650326
+  },
+  {
+    "id": 886,
+    "parent": 16,
+    "Category": "Molybdenum",
+    "Value": 14887360
+  },
+  {
+    "id": 887,
+    "parent": 16,
+    "Category": "Tantalum",
+    "Value": 17269634
+  },
+  {
+    "id": 888,
+    "parent": 16,
+    "Category": "Magnesium",
+    "Value": 92697665
+  },
+  {
+    "id": 889,
+    "parent": 16,
+    "Category": "Cobalt",
+    "Value": 33830637
+  },
+  {
+    "id": 890,
+    "parent": 16,
+    "Category": "Bismuth",
+    "Value": 7459927
+  },
+  {
+    "id": 891,
+    "parent": 16,
+    "Category": "Cadmium",
+    "Value": 132181
+  },
+  {
+    "id": 892,
+    "parent": 16,
+    "Category": "Titanium",
+    "Value": 29912318
+  },
+  {
+    "id": 893,
+    "parent": 16,
+    "Category": "Zirconium",
+    "Value": 416105
+  },
+  {
+    "id": 894,
+    "parent": 16,
+    "Category": "Antimony",
+    "Value": 198700
+  },
+  {
+    "id": 895,
+    "parent": 16,
+    "Category": "Manganese",
+    "Value": 73801048
+  },
+  {
+    "id": 896,
+    "parent": 16,
+    "Category": "Other Metals",
+    "Value": 16260763
+  },
+  {
+    "id": 897,
+    "parent": 16,
+    "Category": "Cermets",
+    "Value": 3663200
+  },
+  {
+    "id": 898,
+    "parent": 16,
+    "Category": "Garden Tools",
+    "Value": 75991624
+  },
+  {
+    "id": 899,
+    "parent": 16,
+    "Category": "Hand Saws",
+    "Value": 112274424
+  },
+  {
+    "id": 900,
+    "parent": 16,
+    "Category": "Hand Tools",
+    "Value": 70440456
+  },
+  {
+    "id": 901,
+    "parent": 16,
+    "Category": "Wrenches",
+    "Value": 82288653
+  },
+  {
+    "id": 902,
+    "parent": 16,
+    "Category": "Other Hand Tools",
+    "Value": 249792187
+  },
+  {
+    "id": 903,
+    "parent": 16,
+    "Category": "Tool Sets",
+    "Value": 56771448
+  },
+  {
+    "id": 904,
+    "parent": 16,
+    "Category": "Interchangeable Tool Parts",
+    "Value": 351541017
+  },
+  {
+    "id": 905,
+    "parent": 16,
+    "Category": "Cutting Blades",
+    "Value": 31996040
+  },
+  {
+    "id": 906,
+    "parent": 16,
+    "Category": "Tool Plates",
+    "Value": 46488895
+  },
+  {
+    "id": 907,
+    "parent": 16,
+    "Category": "Cooking Hand Tools",
+    "Value": 12326001
+  },
+  {
+    "id": 908,
+    "parent": 16,
+    "Category": "Knives",
+    "Value": 110613010
+  },
+  {
+    "id": 909,
+    "parent": 16,
+    "Category": "Razor Blades",
+    "Value": 45806199
+  },
+  {
+    "id": 910,
+    "parent": 16,
+    "Category": "Scissors",
+    "Value": 53082166
+  },
+  {
+    "id": 911,
+    "parent": 16,
+    "Category": "Other Cutlery",
+    "Value": 60725602
+  },
+  {
+    "id": 912,
+    "parent": 16,
+    "Category": "Cutlery Sets",
+    "Value": 203469121
+  },
+  {
+    "id": 913,
+    "parent": 16,
+    "Category": "Padlocks",
+    "Value": 394802845
+  },
+  {
+    "id": 914,
+    "parent": 16,
+    "Category": "Metal Mountings",
+    "Value": 1027317984
+  },
+  {
+    "id": 915,
+    "parent": 16,
+    "Category": "Safes",
+    "Value": 31918492
+  },
+  {
+    "id": 916,
+    "parent": 16,
+    "Category": "Filing Cabinets",
+    "Value": 14344426
+  },
+  {
+    "id": 917,
+    "parent": 16,
+    "Category": "Metal Office Supplies",
+    "Value": 41033222
+  },
+  {
+    "id": 918,
+    "parent": 16,
+    "Category": "Bells and Other Metal Ornaments",
+    "Value": 159064984
+  },
+  {
+    "id": 919,
+    "parent": 16,
+    "Category": "Flexible Metal Tubing",
+    "Value": 26451082
+  },
+  {
+    "id": 920,
+    "parent": 16,
+    "Category": "Other Metal Fasteners",
+    "Value": 83001047
+  },
+  {
+    "id": 921,
+    "parent": 16,
+    "Category": "Metal Stoppers",
+    "Value": 49396719
+  },
+  {
+    "id": 922,
+    "parent": 16,
+    "Category": "Metal Signs",
+    "Value": 30906269
+  },
+  {
+    "id": 923,
+    "parent": 16,
+    "Category": "Coated Metal Soldering Products",
+    "Value": 56195361
+  },
+  {
+    "id": 924,
+    "parent": 17,
+    "Category": "Nuclear Reactors",
+    "Value": 16433306
+  },
+  {
+    "id": 925,
+    "parent": 17,
+    "Category": "Steam Boilers",
+    "Value": 180288418
+  },
+  {
+    "id": 926,
+    "parent": 17,
+    "Category": "Central Heating Boilers",
+    "Value": 14590855
+  },
+  {
+    "id": 927,
+    "parent": 17,
+    "Category": "Boiler Plants",
+    "Value": 46659542
+  },
+  {
+    "id": 928,
+    "parent": 17,
+    "Category": "Water and Gas Generators",
+    "Value": 11343251
+  },
+  {
+    "id": 929,
+    "parent": 17,
+    "Category": "Steam Turbines",
+    "Value": 46950396
+  },
+  {
+    "id": 930,
+    "parent": 17,
+    "Category": "Spark-Ignition Engines",
+    "Value": 267275831
+  },
+  {
+    "id": 931,
+    "parent": 17,
+    "Category": "Combustion Engines",
+    "Value": 137554891
+  },
+  {
+    "id": 932,
+    "parent": 17,
+    "Category": "Engine Parts",
+    "Value": 476732723
+  },
+  {
+    "id": 933,
+    "parent": 17,
+    "Category": "Hydraulic Turbines",
+    "Value": 25786979
+  },
+  {
+    "id": 934,
+    "parent": 17,
+    "Category": "Gas Turbines",
+    "Value": 383748258
+  },
+  {
+    "id": 935,
+    "parent": 17,
+    "Category": "Other Engines",
+    "Value": 200772764
+  },
+  {
+    "id": 936,
+    "parent": 17,
+    "Category": "Liquid Pumps",
+    "Value": 707571559
+  },
+  {
+    "id": 937,
+    "parent": 17,
+    "Category": "Air Pumps",
+    "Value": 1287096972
+  },
+  {
+    "id": 938,
+    "parent": 17,
+    "Category": "Air Conditioners",
+    "Value": 1106414091
+  },
+  {
+    "id": 939,
+    "parent": 17,
+    "Category": "Liquid Fuel Furnaces",
+    "Value": 15675370
+  },
+  {
+    "id": 940,
+    "parent": 17,
+    "Category": "Industrial Furnaces",
+    "Value": 124984323
+  },
+  {
+    "id": 941,
+    "parent": 17,
+    "Category": "Refrigerators",
+    "Value": 790829649
+  },
+  {
+    "id": 942,
+    "parent": 17,
+    "Category": "Other Heating Machinery",
+    "Value": 478346861
+  },
+  {
+    "id": 943,
+    "parent": 17,
+    "Category": "Rolling Machines",
+    "Value": 8861495
+  },
+  {
+    "id": 944,
+    "parent": 17,
+    "Category": "Centrifuges",
+    "Value": 651451879
+  },
+  {
+    "id": 945,
+    "parent": 17,
+    "Category": "Washing and Bottling Machines",
+    "Value": 202618667
+  },
+  {
+    "id": 946,
+    "parent": 17,
+    "Category": "Scales",
+    "Value": 130710690
+  },
+  {
+    "id": 947,
+    "parent": 17,
+    "Category": "Liquid Dispersing Machines",
+    "Value": 356373604
+  },
+  {
+    "id": 948,
+    "parent": 17,
+    "Category": "Pulley Systems",
+    "Value": 191145641
+  },
+  {
+    "id": 949,
+    "parent": 17,
+    "Category": "Cranes",
+    "Value": 408862688
+  },
+  {
+    "id": 950,
+    "parent": 17,
+    "Category": "Fork-Lifts",
+    "Value": 233031997
+  },
+  {
+    "id": 951,
+    "parent": 17,
+    "Category": "Lifting Machinery",
+    "Value": 408821256
+  },
+  {
+    "id": 952,
+    "parent": 17,
+    "Category": "Large Construction Vehicles",
+    "Value": 387268453
+  },
+  {
+    "id": 953,
+    "parent": 17,
+    "Category": "Other Construction Vehicles",
+    "Value": 154478150
+  },
+  {
+    "id": 954,
+    "parent": 17,
+    "Category": "Excavation Machinery",
+    "Value": 780605690
+  },
+  {
+    "id": 955,
+    "parent": 17,
+    "Category": "Soil Preparation Machinery",
+    "Value": 96282308
+  },
+  {
+    "id": 956,
+    "parent": 17,
+    "Category": "Harvesting Machinery",
+    "Value": 219560624
+  },
+  {
+    "id": 957,
+    "parent": 17,
+    "Category": "Dairy Machinery",
+    "Value": 6783346
+  },
+  {
+    "id": 958,
+    "parent": 17,
+    "Category": "Fruit Pressing Machinery",
+    "Value": 2966462
+  },
+  {
+    "id": 959,
+    "parent": 17,
+    "Category": "Other Agricultural Machinery",
+    "Value": 59698607
+  },
+  {
+    "id": 960,
+    "parent": 17,
+    "Category": "Mill Machinery",
+    "Value": 39893787
+  },
+  {
+    "id": 961,
+    "parent": 17,
+    "Category": "Industrial Food Preperation Machinery",
+    "Value": 112989481
+  },
+  {
+    "id": 962,
+    "parent": 17,
+    "Category": "Papermaking Machines",
+    "Value": 58478608
+  },
+  {
+    "id": 963,
+    "parent": 17,
+    "Category": "Book-binding Machines",
+    "Value": 3364157
+  },
+  {
+    "id": 964,
+    "parent": 17,
+    "Category": "Other Paper Machinery",
+    "Value": 106965673
+  },
+  {
+    "id": 965,
+    "parent": 17,
+    "Category": "Print Production Machinery",
+    "Value": 17342906
+  },
+  {
+    "id": 966,
+    "parent": 17,
+    "Category": "Industrial Printers",
+    "Value": 1690873886
+  },
+  {
+    "id": 967,
+    "parent": 17,
+    "Category": "Artificial Textile Machinery",
+    "Value": 43528071
+  },
+  {
+    "id": 968,
+    "parent": 17,
+    "Category": "Textile Fiber Machinery",
+    "Value": 52621709
+  },
+  {
+    "id": 969,
+    "parent": 17,
+    "Category": "Looms",
+    "Value": 46505563
+  },
+  {
+    "id": 970,
+    "parent": 17,
+    "Category": "Knitting Machines",
+    "Value": 90316222
+  },
+  {
+    "id": 971,
+    "parent": 17,
+    "Category": "Knitting Machine Accessories",
+    "Value": 62694411
+  },
+  {
+    "id": 972,
+    "parent": 17,
+    "Category": "Felt Machinery",
+    "Value": 8228412
+  },
+  {
+    "id": 973,
+    "parent": 17,
+    "Category": "Household Washing Machines",
+    "Value": 321276683
+  },
+  {
+    "id": 974,
+    "parent": 17,
+    "Category": "Textile Processing Machines",
+    "Value": 95291194
+  },
+  {
+    "id": 975,
+    "parent": 17,
+    "Category": "Sewing Machines",
+    "Value": 157794906
+  },
+  {
+    "id": 976,
+    "parent": 17,
+    "Category": "Leather Machinery",
+    "Value": 32723102
+  },
+  {
+    "id": 977,
+    "parent": 17,
+    "Category": "Casting Machines",
+    "Value": 47296727
+  },
+  {
+    "id": 978,
+    "parent": 17,
+    "Category": "Metal-Rolling Mills",
+    "Value": 77155523
+  },
+  {
+    "id": 979,
+    "parent": 17,
+    "Category": "Non-Mechanical Removal Machinery",
+    "Value": 85170818
+  },
+  {
+    "id": 980,
+    "parent": 17,
+    "Category": "Metalworking Transfer Machines",
+    "Value": 13511466
+  },
+  {
+    "id": 981,
+    "parent": 17,
+    "Category": "Metal Lathes",
+    "Value": 47004946
+  },
+  {
+    "id": 982,
+    "parent": 17,
+    "Category": "Drilling Machines",
+    "Value": 33697843
+  },
+  {
+    "id": 983,
+    "parent": 17,
+    "Category": "Metal Finishing Machines",
+    "Value": 26965795
+  },
+  {
+    "id": 984,
+    "parent": 17,
+    "Category": "Metalworking Machines",
+    "Value": 26440423
+  },
+  {
+    "id": 985,
+    "parent": 17,
+    "Category": "Forging Machines",
+    "Value": 98310316
+  },
+  {
+    "id": 986,
+    "parent": 17,
+    "Category": "Other Non-Metal Removal Machinery",
+    "Value": 32880471
+  },
+  {
+    "id": 987,
+    "parent": 17,
+    "Category": "Stone Working Machines",
+    "Value": 54020828
+  },
+  {
+    "id": 988,
+    "parent": 17,
+    "Category": "Woodworking machines",
+    "Value": 134014376
+  },
+  {
+    "id": 989,
+    "parent": 17,
+    "Category": "Metalworking Machine Parts",
+    "Value": 119138897
+  },
+  {
+    "id": 990,
+    "parent": 17,
+    "Category": "Motor-working Tools",
+    "Value": 925731703
+  },
+  {
+    "id": 991,
+    "parent": 17,
+    "Category": "Soldering and Welding Machinery",
+    "Value": 18671325
+  },
+  {
+    "id": 992,
+    "parent": 17,
+    "Category": "Calculators",
+    "Value": 159055503
+  },
+  {
+    "id": 993,
+    "parent": 17,
+    "Category": "Computers",
+    "Value": 14173475840
+  },
+  {
+    "id": 994,
+    "parent": 17,
+    "Category": "Other Office Machines",
+    "Value": 140833115
+  },
+  {
+    "id": 995,
+    "parent": 17,
+    "Category": "Office Machine Parts",
+    "Value": 3780477395
+  },
+  {
+    "id": 996,
+    "parent": 17,
+    "Category": "Stone Processing Machines",
+    "Value": 248880706
+  },
+  {
+    "id": 997,
+    "parent": 17,
+    "Category": "Glass Working Machines",
+    "Value": 23510016
+  },
+  {
+    "id": 998,
+    "parent": 17,
+    "Category": "Vending Machines",
+    "Value": 23115101
+  },
+  {
+    "id": 999,
+    "parent": 17,
+    "Category": "Rubberworking Machinery",
+    "Value": 430243869
+  },
+  {
+    "id": 1000,
+    "parent": 17,
+    "Category": "Tobacco Processing Machines",
+    "Value": 1552355
+  },
+  {
+    "id": 1001,
+    "parent": 17,
+    "Category": "Machinery Having Individual Functions",
+    "Value": 546053398
+  },
+  {
+    "id": 1002,
+    "parent": 17,
+    "Category": "Metal Molds",
+    "Value": 432210853
+  },
+  {
+    "id": 1003,
+    "parent": 17,
+    "Category": "Valves",
+    "Value": 1533615468
+  },
+  {
+    "id": 1004,
+    "parent": 17,
+    "Category": "Ball Bearings",
+    "Value": 503228755
+  },
+  {
+    "id": 1005,
+    "parent": 17,
+    "Category": "Transmissions",
+    "Value": 661494358
+  },
+  {
+    "id": 1006,
+    "parent": 17,
+    "Category": "Gaskets",
+    "Value": 43584580
+  },
+  {
+    "id": 1007,
+    "parent": 17,
+    "Category": "Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays",
+    "Value": 212771568
+  },
+  {
+    "id": 1008,
+    "parent": 17,
+    "Category": "Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.",
+    "Value": 111416910
+  },
+  {
+    "id": 1009,
+    "parent": 17,
+    "Category": "Electric Motors",
+    "Value": 1042621959
+  },
+  {
+    "id": 1010,
+    "parent": 17,
+    "Category": "Electric Generating Sets",
+    "Value": 334656140
+  },
+  {
+    "id": 1011,
+    "parent": 17,
+    "Category": "Electric Motor Parts",
+    "Value": 423370124
+  },
+  {
+    "id": 1012,
+    "parent": 17,
+    "Category": "Electrical Transformers",
+    "Value": 2657631322
+  },
+  {
+    "id": 1013,
+    "parent": 17,
+    "Category": "Electromagnets",
+    "Value": 285456514
+  },
+  {
+    "id": 1014,
+    "parent": 17,
+    "Category": "Batteries",
+    "Value": 216152560
+  },
+  {
+    "id": 1015,
+    "parent": 17,
+    "Category": "Electric Batteries",
+    "Value": 1275142465
+  },
+  {
+    "id": 1016,
+    "parent": 17,
+    "Category": "Vacuum Cleaners",
+    "Value": 442083513
+  },
+  {
+    "id": 1017,
+    "parent": 17,
+    "Category": "Other Domestic Electric Housewares",
+    "Value": 502073505
+  },
+  {
+    "id": 1018,
+    "parent": 17,
+    "Category": "Hair Trimmers",
+    "Value": 119386606
+  },
+  {
+    "id": 1019,
+    "parent": 17,
+    "Category": "Electrical Ignitions",
+    "Value": 196660043
+  },
+  {
+    "id": 1020,
+    "parent": 17,
+    "Category": "Electrical Lighting and Signalling Equipment",
+    "Value": 410595130
+  },
+  {
+    "id": 1021,
+    "parent": 17,
+    "Category": "Portable Lighting",
+    "Value": 242630074
+  },
+  {
+    "id": 1022,
+    "parent": 17,
+    "Category": "Electric Furnaces",
+    "Value": 56949752
+  },
+  {
+    "id": 1023,
+    "parent": 17,
+    "Category": "Electric Soldering Equipment",
+    "Value": 149191917
+  },
+  {
+    "id": 1024,
+    "parent": 17,
+    "Category": "Electric Heaters",
+    "Value": 1781797241
+  },
+  {
+    "id": 1025,
+    "parent": 17,
+    "Category": "Telephones",
+    "Value": 28974708722
+  },
+  {
+    "id": 1026,
+    "parent": 17,
+    "Category": "Microphones and Headphones",
+    "Value": 1688061591
+  },
+  {
+    "id": 1027,
+    "parent": 17,
+    "Category": "Sound Recording Equipment",
+    "Value": 107421145
+  },
+  {
+    "id": 1028,
+    "parent": 17,
+    "Category": "Video Recording Equipment",
+    "Value": 495226171
+  },
+  {
+    "id": 1029,
+    "parent": 17,
+    "Category": "Audio and Video Recording Accessories",
+    "Value": 103808377
+  },
+  {
+    "id": 1030,
+    "parent": 17,
+    "Category": "Blank Audio Media",
+    "Value": 449924333
+  },
+  {
+    "id": 1031,
+    "parent": 17,
+    "Category": "Broadcasting Equipment",
+    "Value": 1036870999
+  },
+  {
+    "id": 1032,
+    "parent": 17,
+    "Category": "Navigation Equipment",
+    "Value": 217281905
+  },
+  {
+    "id": 1033,
+    "parent": 17,
+    "Category": "Radio Receivers",
+    "Value": 388210283
+  },
+  {
+    "id": 1034,
+    "parent": 17,
+    "Category": "Video Displays",
+    "Value": 2826413442
+  },
+  {
+    "id": 1035,
+    "parent": 17,
+    "Category": "Broadcasting Accessories",
+    "Value": 1340257004
+  },
+  {
+    "id": 1036,
+    "parent": 17,
+    "Category": "Traffic Signals",
+    "Value": 15516946
+  },
+  {
+    "id": 1037,
+    "parent": 17,
+    "Category": "Audio Alarms",
+    "Value": 326684187
+  },
+  {
+    "id": 1038,
+    "parent": 17,
+    "Category": "Electrical Capacitors",
+    "Value": 388859350
+  },
+  {
+    "id": 1039,
+    "parent": 17,
+    "Category": "Electrical Resistors",
+    "Value": 133023427
+  },
+  {
+    "id": 1040,
+    "parent": 17,
+    "Category": "Printed Circuit Boards",
+    "Value": 1350795915
+  },
+  {
+    "id": 1041,
+    "parent": 17,
+    "Category": "High-voltage Protection Equipment",
+    "Value": 60991995
+  },
+  {
+    "id": 1042,
+    "parent": 17,
+    "Category": "Low-voltage Protection Equipment",
+    "Value": 1597048624
+  },
+  {
+    "id": 1043,
+    "parent": 17,
+    "Category": "Electrical Control Boards",
+    "Value": 817109753
+  },
+  {
+    "id": 1044,
+    "parent": 17,
+    "Category": "Electrical Power Accessories",
+    "Value": 361876614
+  },
+  {
+    "id": 1045,
+    "parent": 17,
+    "Category": "Electric Filament",
+    "Value": 1021600215
+  },
+  {
+    "id": 1046,
+    "parent": 17,
+    "Category": "Cathode Tubes",
+    "Value": 15420173
+  },
+  {
+    "id": 1047,
+    "parent": 17,
+    "Category": "Semiconductor Devices",
+    "Value": 2663786562
+  },
+  {
+    "id": 1048,
+    "parent": 17,
+    "Category": "Integrated Circuits",
+    "Value": 7404018717
+  },
+  {
+    "id": 1049,
+    "parent": 17,
+    "Category": "Other Electrical Machinery",
+    "Value": 1184681933
+  },
+  {
+    "id": 1050,
+    "parent": 17,
+    "Category": "Insulated Wire",
+    "Value": 2146613248
+  },
+  {
+    "id": 1051,
+    "parent": 17,
+    "Category": "Carbon-based Electronics",
+    "Value": 304972713
+  },
+  {
+    "id": 1052,
+    "parent": 17,
+    "Category": "Electrical Insulators",
+    "Value": 46105959
+  },
+  {
+    "id": 1053,
+    "parent": 17,
+    "Category": "Metal Insulating Fittings",
+    "Value": 52376243
+  },
+  {
+    "id": 1054,
+    "parent": 17,
+    "Category": "Electrical Parts",
+    "Value": 124867716
+  },
+  {
+    "id": 1055,
+    "parent": 18,
+    "Category": "Electric Locomotives",
+    "Value": 2305366
+  },
+  {
+    "id": 1056,
+    "parent": 18,
+    "Category": "Other Locomotives",
+    "Value": 7592637
+  },
+  {
+    "id": 1057,
+    "parent": 18,
+    "Category": "Self-Propelled Rail Transport",
+    "Value": 28072795
+  },
+  {
+    "id": 1058,
+    "parent": 18,
+    "Category": "Railway Passenger Cars",
+    "Value": 14545556
+  },
+  {
+    "id": 1059,
+    "parent": 18,
+    "Category": "Railway Freight Cars",
+    "Value": 1463305
+  },
+  {
+    "id": 1060,
+    "parent": 18,
+    "Category": "Locomotive Parts",
+    "Value": 101194632
+  },
+  {
+    "id": 1061,
+    "parent": 18,
+    "Category": "Railway Track Fixtures",
+    "Value": 9334716
+  },
+  {
+    "id": 1062,
+    "parent": 18,
+    "Category": "Railway Cargo Containers",
+    "Value": 946032008
+  },
+  {
+    "id": 1063,
+    "parent": 18,
+    "Category": "Tractors",
+    "Value": 145573249
+  },
+  {
+    "id": 1064,
+    "parent": 18,
+    "Category": "Buses",
+    "Value": 183113603
+  },
+  {
+    "id": 1065,
+    "parent": 18,
+    "Category": "Cars",
+    "Value": 693925567
+  },
+  {
+    "id": 1066,
+    "parent": 18,
+    "Category": "Delivery Trucks",
+    "Value": 412122194
+  },
+  {
+    "id": 1067,
+    "parent": 18,
+    "Category": "Specialized Vehicles",
+    "Value": 130298156
+  },
+  {
+    "id": 1068,
+    "parent": 18,
+    "Category": "Vehicle Chassis",
+    "Value": 3420045
+  },
+  {
+    "id": 1069,
+    "parent": 18,
+    "Category": "Vehicle Bodies",
+    "Value": 18988624
+  },
+  {
+    "id": 1070,
+    "parent": 18,
+    "Category": "Vehicle Parts",
+    "Value": 2928434263
+  },
+  {
+    "id": 1071,
+    "parent": 18,
+    "Category": "Work Trucks",
+    "Value": 7324352
+  },
+  {
+    "id": 1072,
+    "parent": 18,
+    "Category": "Motorcycles",
+    "Value": 603956670
+  },
+  {
+    "id": 1073,
+    "parent": 18,
+    "Category": "Bicycles",
+    "Value": 289442322
+  },
+  {
+    "id": 1074,
+    "parent": 18,
+    "Category": "Wheelchairs",
+    "Value": 57025539
+  },
+  {
+    "id": 1075,
+    "parent": 18,
+    "Category": "Bi-Wheel Vehicle Parts",
+    "Value": 577385632
+  },
+  {
+    "id": 1076,
+    "parent": 18,
+    "Category": "Baby Carriages",
+    "Value": 125162395
+  },
+  {
+    "id": 1077,
+    "parent": 18,
+    "Category": "Trailers",
+    "Value": 348995674
+  },
+  {
+    "id": 1078,
+    "parent": 18,
+    "Category": "Non-powered Aircraft",
+    "Value": 169980
+  },
+  {
+    "id": 1079,
+    "parent": 18,
+    "Category": "Planes, Helicopters, and/or Spacecraft",
+    "Value": 15730291
+  },
+  {
+    "id": 1080,
+    "parent": 18,
+    "Category": "Aircraft Parts",
+    "Value": 170126488
+  },
+  {
+    "id": 1081,
+    "parent": 18,
+    "Category": "Parachutes",
+    "Value": 538686
+  },
+  {
+    "id": 1082,
+    "parent": 18,
+    "Category": "Aircraft Launch Gear",
+    "Value": 554000
+  },
+  {
+    "id": 1083,
+    "parent": 18,
+    "Category": "Passenger and Cargo Ships",
+    "Value": 1200448222
+  },
+  {
+    "id": 1084,
+    "parent": 18,
+    "Category": "Fishing Ships",
+    "Value": 5509233
+  },
+  {
+    "id": 1085,
+    "parent": 18,
+    "Category": "Recreational Boats",
+    "Value": 34946336
+  },
+  {
+    "id": 1086,
+    "parent": 18,
+    "Category": "Tug Boats",
+    "Value": 11352274
+  },
+  {
+    "id": 1087,
+    "parent": 18,
+    "Category": "Special Purpose Ships",
+    "Value": 394321716
+  },
+  {
+    "id": 1088,
+    "parent": 18,
+    "Category": "Other Sea Vessels",
+    "Value": 7630497
+  },
+  {
+    "id": 1089,
+    "parent": 18,
+    "Category": "Other Floating Structures",
+    "Value": 9973998
+  },
+  {
+    "id": 1090,
+    "parent": 19,
+    "Category": "Optical Fibers",
+    "Value": 388359848
+  },
+  {
+    "id": 1091,
+    "parent": 19,
+    "Category": "Mirrors and Lenses",
+    "Value": 257999202
+  },
+  {
+    "id": 1092,
+    "parent": 19,
+    "Category": "Eyewear Frames",
+    "Value": 128501277
+  },
+  {
+    "id": 1093,
+    "parent": 19,
+    "Category": "Eyewear",
+    "Value": 293910511
+  },
+  {
+    "id": 1094,
+    "parent": 19,
+    "Category": "Binoculars and Telescopes",
+    "Value": 29511054
+  },
+  {
+    "id": 1095,
+    "parent": 19,
+    "Category": "Cameras",
+    "Value": 45661910
+  },
+  {
+    "id": 1096,
+    "parent": 19,
+    "Category": "Video Cameras",
+    "Value": 13035798
+  },
+  {
+    "id": 1097,
+    "parent": 19,
+    "Category": "Image Projectors",
+    "Value": 3829358
+  },
+  {
+    "id": 1098,
+    "parent": 19,
+    "Category": "Photo Lab Equipment",
+    "Value": 12474300
+  },
+  {
+    "id": 1099,
+    "parent": 19,
+    "Category": "Microscopes",
+    "Value": 23673929
+  },
+  {
+    "id": 1100,
+    "parent": 19,
+    "Category": "Non-optical Microscopes",
+    "Value": 3284896
+  },
+  {
+    "id": 1101,
+    "parent": 19,
+    "Category": "LCDs",
+    "Value": 2597611794
+  },
+  {
+    "id": 1102,
+    "parent": 19,
+    "Category": "Compasses",
+    "Value": 14705210
+  },
+  {
+    "id": 1103,
+    "parent": 19,
+    "Category": "Surveying Equipment",
+    "Value": 68597154
+  },
+  {
+    "id": 1104,
+    "parent": 19,
+    "Category": "Balances",
+    "Value": 5657879
+  },
+  {
+    "id": 1105,
+    "parent": 19,
+    "Category": "Drafting Tools",
+    "Value": 74474477
+  },
+  {
+    "id": 1106,
+    "parent": 19,
+    "Category": "Medical Instruments",
+    "Value": 604697862
+  },
+  {
+    "id": 1107,
+    "parent": 19,
+    "Category": "Therapeutic Appliances",
+    "Value": 310521194
+  },
+  {
+    "id": 1108,
+    "parent": 19,
+    "Category": "Breathing Appliances",
+    "Value": 5453381
+  },
+  {
+    "id": 1109,
+    "parent": 19,
+    "Category": "Orthopedic Appliances",
+    "Value": 142536567
+  },
+  {
+    "id": 1110,
+    "parent": 19,
+    "Category": "X-Ray Equipment",
+    "Value": 150349036
+  },
+  {
+    "id": 1111,
+    "parent": 19,
+    "Category": "Instructional Models",
+    "Value": 56538988
+  },
+  {
+    "id": 1112,
+    "parent": 19,
+    "Category": "Tensile Testing Machines",
+    "Value": 9797115
+  },
+  {
+    "id": 1113,
+    "parent": 19,
+    "Category": "Hydrometers",
+    "Value": 95832599
+  },
+  {
+    "id": 1114,
+    "parent": 19,
+    "Category": "Gas and Liquid Flow Measuring Instruments",
+    "Value": 168661200
+  },
+  {
+    "id": 1115,
+    "parent": 19,
+    "Category": "Chemical Analysis Instruments",
+    "Value": 190720262
+  },
+  {
+    "id": 1116,
+    "parent": 19,
+    "Category": "Utility Meters",
+    "Value": 134186262
+  },
+  {
+    "id": 1117,
+    "parent": 19,
+    "Category": "Revolution Counters",
+    "Value": 43527660
+  },
+  {
+    "id": 1118,
+    "parent": 19,
+    "Category": "Oscilloscopes",
+    "Value": 120777514
+  },
+  {
+    "id": 1119,
+    "parent": 19,
+    "Category": "Other Measuring Instruments",
+    "Value": 370397900
+  },
+  {
+    "id": 1120,
+    "parent": 19,
+    "Category": "Thermostats",
+    "Value": 388916180
+  },
+  {
+    "id": 1121,
+    "parent": 19,
+    "Category": "Opto-Electric Instrument Parts",
+    "Value": 21471310
+  },
+  {
+    "id": 1122,
+    "parent": 19,
+    "Category": "Precious Metal Watches",
+    "Value": 10925815
+  },
+  {
+    "id": 1123,
+    "parent": 19,
+    "Category": "Base Metal Watches",
+    "Value": 234185653
+  },
+  {
+    "id": 1124,
+    "parent": 19,
+    "Category": "Clocks with Watch Movements",
+    "Value": 633653
+  },
+  {
+    "id": 1125,
+    "parent": 19,
+    "Category": "Dashboard Clocks",
+    "Value": 730533
+  },
+  {
+    "id": 1126,
+    "parent": 19,
+    "Category": "Other Clocks",
+    "Value": 71994268
+  },
+  {
+    "id": 1127,
+    "parent": 19,
+    "Category": "Time Recording Instruments",
+    "Value": 8304857
+  },
+  {
+    "id": 1128,
+    "parent": 19,
+    "Category": "Time Switches",
+    "Value": 6264130
+  },
+  {
+    "id": 1129,
+    "parent": 19,
+    "Category": "Watch Movements",
+    "Value": 20894649
+  },
+  {
+    "id": 1130,
+    "parent": 19,
+    "Category": "Clock Movements",
+    "Value": 2271718
+  },
+  {
+    "id": 1131,
+    "parent": 19,
+    "Category": "Incomplete Movement Sets",
+    "Value": 5772525
+  },
+  {
+    "id": 1132,
+    "parent": 19,
+    "Category": "Watch Cases and Parts",
+    "Value": 39594954
+  },
+  {
+    "id": 1133,
+    "parent": 19,
+    "Category": "Clock Cases and Parts",
+    "Value": 590203
+  },
+  {
+    "id": 1134,
+    "parent": 19,
+    "Category": "Watch Straps",
+    "Value": 39194399
+  },
+  {
+    "id": 1135,
+    "parent": 19,
+    "Category": "Other Clocks and Watches",
+    "Value": 29559012
+  },
+  {
+    "id": 1136,
+    "parent": 19,
+    "Category": "Pianos",
+    "Value": 5134967
+  },
+  {
+    "id": 1137,
+    "parent": 19,
+    "Category": "String Instruments",
+    "Value": 40067149
+  },
+  {
+    "id": 1138,
+    "parent": 19,
+    "Category": "Wind Instruments",
+    "Value": 17243572
+  },
+  {
+    "id": 1139,
+    "parent": 19,
+    "Category": "Percussion",
+    "Value": 10402132
+  },
+  {
+    "id": 1140,
+    "parent": 19,
+    "Category": "Electric Musical Instruments",
+    "Value": 45283600
+  },
+  {
+    "id": 1141,
+    "parent": 19,
+    "Category": "Other Musical Instruments",
+    "Value": 6042243
+  },
+  {
+    "id": 1142,
+    "parent": 19,
+    "Category": "Musical Instrument Parts",
+    "Value": 24785256
+  },
+  {
+    "id": 1143,
+    "parent": 20,
+    "Category": "Other Firearms",
+    "Value": 1105128
+  },
+  {
+    "id": 1144,
+    "parent": 20,
+    "Category": "Spring, Air, and Gas Guns",
+    "Value": 7662487
+  },
+  {
+    "id": 1145,
+    "parent": 20,
+    "Category": "Weapons Parts and Accessories",
+    "Value": 1519323
+  },
+  {
+    "id": 1146,
+    "parent": 20,
+    "Category": "Explosive Ammunition",
+    "Value": 754892
+  },
+  {
+    "id": 1147,
+    "parent": 20,
+    "Category": "Bladed Weapons and Accessories",
+    "Value": 705345
+  },
+  {
+    "id": 1148,
+    "parent": 21,
+    "Category": "Seats",
+    "Value": 2449480213
+  },
+  {
+    "id": 1149,
+    "parent": 21,
+    "Category": "Medical Furniture",
+    "Value": 75866115
+  },
+  {
+    "id": 1150,
+    "parent": 21,
+    "Category": "Other Furniture",
+    "Value": 2622586881
+  },
+  {
+    "id": 1151,
+    "parent": 21,
+    "Category": "Mattresses",
+    "Value": 792116972
+  },
+  {
+    "id": 1152,
+    "parent": 21,
+    "Category": "Light Fixtures",
+    "Value": 2951814492
+  },
+  {
+    "id": 1153,
+    "parent": 21,
+    "Category": "Prefabricated Buildings",
+    "Value": 168985507
+  },
+  {
+    "id": 1154,
+    "parent": 21,
+    "Category": "Models and Stuffed Animals",
+    "Value": 2015019452
+  },
+  {
+    "id": 1155,
+    "parent": 21,
+    "Category": "Video and Card Games",
+    "Value": 1252221807
+  },
+  {
+    "id": 1156,
+    "parent": 21,
+    "Category": "Party Decorations",
+    "Value": 157891727
+  },
+  {
+    "id": 1157,
+    "parent": 21,
+    "Category": "Sports Equipment",
+    "Value": 970414773
+  },
+  {
+    "id": 1158,
+    "parent": 21,
+    "Category": "Fishing and Hunting Equipment",
+    "Value": 127003103
+  },
+  {
+    "id": 1159,
+    "parent": 21,
+    "Category": "Fairground Amusements",
+    "Value": 5784959
+  },
+  {
+    "id": 1160,
+    "parent": 21,
+    "Category": "Worked Ivory and Bone",
+    "Value": 1177141
+  },
+  {
+    "id": 1161,
+    "parent": 21,
+    "Category": "Vegetable and Mineral Carvings",
+    "Value": 7654124
+  },
+  {
+    "id": 1162,
+    "parent": 21,
+    "Category": "Brooms",
+    "Value": 405998199
+  },
+  {
+    "id": 1163,
+    "parent": 21,
+    "Category": "Hand Sifters",
+    "Value": 275698
+  },
+  {
+    "id": 1164,
+    "parent": 21,
+    "Category": "Travel Kits",
+    "Value": 21175194
+  },
+  {
+    "id": 1165,
+    "parent": 21,
+    "Category": "Buttons",
+    "Value": 49463749
+  },
+  {
+    "id": 1166,
+    "parent": 21,
+    "Category": "Zippers",
+    "Value": 94082188
+  },
+  {
+    "id": 1167,
+    "parent": 21,
+    "Category": "Pens",
+    "Value": 182118583
+  },
+  {
+    "id": 1168,
+    "parent": 21,
+    "Category": "Pencils and Crayons",
+    "Value": 67433212
+  },
+  {
+    "id": 1169,
+    "parent": 21,
+    "Category": "Chalkboards",
+    "Value": 34742203
+  },
+  {
+    "id": 1170,
+    "parent": 21,
+    "Category": "Rubber Stamps",
+    "Value": 4461286
+  },
+  {
+    "id": 1171,
+    "parent": 21,
+    "Category": "Ink Ribbons",
+    "Value": 18930648
+  },
+  {
+    "id": 1172,
+    "parent": 21,
+    "Category": "Lighters",
+    "Value": 64852922
+  },
+  {
+    "id": 1173,
+    "parent": 21,
+    "Category": "Smoking Pipes",
+    "Value": 26730688
+  },
+  {
+    "id": 1174,
+    "parent": 21,
+    "Category": "Combs",
+    "Value": 122898677
+  },
+  {
+    "id": 1175,
+    "parent": 21,
+    "Category": "Scent Sprays",
+    "Value": 53912820
+  },
+  {
+    "id": 1176,
+    "parent": 21,
+    "Category": "Vacuum Flask",
+    "Value": 195282105
+  },
+  {
+    "id": 1177,
+    "parent": 21,
+    "Category": "Mannequins",
+    "Value": 27769859
+  },
+  {
+    "id": 1178,
+    "parent": 21,
+    "Category": "Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material",
+    "Value": 149189619
+  },
+  {
+    "id": 1179,
+    "parent": 21,
+    "Category": "Monopods, bipods, tripods and similar articles",
+    "Value": 27103373
+  },
+  {
+    "id": 1180,
+    "parent": 22,
+    "Category": "Paintings",
+    "Value": 16722366
+  },
+  {
+    "id": 1181,
+    "parent": 22,
+    "Category": "Prints",
+    "Value": 61706
+  },
+  {
+    "id": 1182,
+    "parent": 22,
+    "Category": "Sculptures",
+    "Value": 394339
+  },
+  {
+    "id": 1183,
+    "parent": 22,
+    "Category": "Revenue Stamps",
+    "Value": 412191
+  },
+  {
+    "id": 1184,
+    "parent": 22,
+    "Category": "Collector's Items",
+    "Value": 75035
+  },
+  {
+    "id": 1185,
+    "parent": 22,
+    "Category": "Antiques",
+    "Value": 6833
+  },
+  {
+    "id": 1186,
+    "parent": 23,
+    "Category": "Commodities not elsewhere specified",
+    "Value": 541232538
+  },
+  {
+    "id": 1187,
+    "parent": 2,
+    "Category": "Bovine",
+    "Value": 6695297
+  },
+  {
+    "id": 1188,
+    "parent": 2,
+    "Category": "Pigs",
+    "Value": 71579147
+  },
+  {
+    "id": 1189,
+    "parent": 2,
+    "Category": "Sheep and Goats",
+    "Value": 278935
+  },
+  {
+    "id": 1190,
+    "parent": 2,
+    "Category": "Poultry",
+    "Value": 107351
+  },
+  {
+    "id": 1191,
+    "parent": 2,
+    "Category": "Other Animals",
+    "Value": 4825074
+  },
+  {
+    "id": 1192,
+    "parent": 2,
+    "Category": "Frozen Bovine Meat",
+    "Value": 377118
+  },
+  {
+    "id": 1193,
+    "parent": 2,
+    "Category": "Pig Meat",
+    "Value": 18897309
+  },
+  {
+    "id": 1194,
+    "parent": 2,
+    "Category": "Sheep and Goat Meat",
+    "Value": 12014038
+  },
+  {
+    "id": 1195,
+    "parent": 2,
+    "Category": "Edible Offal",
+    "Value": 35630
+  },
+  {
+    "id": 1196,
+    "parent": 2,
+    "Category": "Poultry Meat",
+    "Value": 64066940
+  },
+  {
+    "id": 1197,
+    "parent": 2,
+    "Category": "Other Meat",
+    "Value": 4483036
+  },
+  {
+    "id": 1198,
+    "parent": 2,
+    "Category": "Animal Fat",
+    "Value": 45432
+  },
+  {
+    "id": 1199,
+    "parent": 2,
+    "Category": "Preserved Meat",
+    "Value": 691213
+  },
+  {
+    "id": 1200,
+    "parent": 2,
+    "Category": "Live Fish",
+    "Value": 50030746
+  },
+  {
+    "id": 1201,
+    "parent": 2,
+    "Category": "Non-fillet Fresh Fish",
+    "Value": 23182131
+  },
+  {
+    "id": 1202,
+    "parent": 2,
+    "Category": "Non-fillet Frozen Fish",
+    "Value": 275214168
+  },
+  {
+    "id": 1203,
+    "parent": 2,
+    "Category": "Fish Fillets",
+    "Value": 454751784
+  },
+  {
+    "id": 1204,
+    "parent": 2,
+    "Category": "Processed Fish",
+    "Value": 50300605
+  },
+  {
+    "id": 1205,
+    "parent": 2,
+    "Category": "Crustaceans",
+    "Value": 164697474
+  },
+  {
+    "id": 1206,
+    "parent": 2,
+    "Category": "Molluscs",
+    "Value": 353793291
+  },
+  {
+    "id": 1207,
+    "parent": 2,
+    "Category": "Aquatic invertebrates, other than crustaceans and molluscs",
+    "Value": 5844203
+  },
+  {
+    "id": 1208,
+    "parent": 2,
+    "Category": "Milk",
+    "Value": 2241012
+  }
+]
