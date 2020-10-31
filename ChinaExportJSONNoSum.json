@@ -2,37 +2,37 @@
   {
     "id": 1,
     "parent": "",
-    "Category": "world",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 2,
     "parent": 1,
-    "Category": "Animal Products",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 3,
     "parent": 1,
-    "Category": "Vegetable Products",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 4,
     "parent": 1,
-    "Category": "Animal and Vegetable Bi-Products",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 5,
     "parent": 1,
-    "Category": "Foodstuffs",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 6,
     "parent": 1,
-    "Category": "Mineral Product",
+    "Category": "",
     "Value": ""
   },
   {
@@ -44,25 +44,25 @@
   {
     "id": 8,
     "parent": 1,
-    "Category": "Plastics and Rubbers",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 9,
     "parent": 1,
-    "Category": "Animal Hides",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 10,
     "parent": 1,
-    "Category": "Wood Products",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 11,
     "parent": 1,
-    "Category": "Paper Goods",
+    "Category": "",
     "Value": ""
   },
   {
@@ -74,19 +74,19 @@
   {
     "id": 13,
     "parent": 1,
-    "Category": "Footwear and Headwear",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 14,
     "parent": 1,
-    "Category": "Stone And Glass",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 15,
     "parent": 1,
-    "Category": "Precious Metals",
+    "Category": "",
     "Value": ""
   },
   {
@@ -110,13 +110,13 @@
   {
     "id": 19,
     "parent": 1,
-    "Category": "Instruments",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 20,
     "parent": 1,
-    "Category": "Weapons",
+    "Category": "",
     "Value": ""
   },
   {
@@ -128,13 +128,13 @@
   {
     "id": 22,
     "parent": 1,
-    "Category": "Arts and Antiques",
+    "Category": "",
     "Value": ""
   },
   {
     "id": 23,
     "parent": 1,
-    "Category": "Unspecified",
+    "Category": "",
     "Value": ""
   },
   {
