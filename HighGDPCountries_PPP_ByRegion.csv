@@ -1,34 +1,41 @@
 Year,Value,Country,Region
+1990,196.055,Nigeria,Africa
 1995,223.348,Nigeria,Africa
 2000,282.001,Nigeria,Africa
 2005,481.46,Nigeria,Africa
 2010,745.473,Nigeria,Africa
 2015,982.912,Nigeria,Africa
+1990,1115,China,Asia
 1995,2244,China,Asia
 2000,3688,China,Asia
 2005,6589,China,Asia
 2010,12379,China,Asia
 2015,17797,China,Asia
+1990,520.905,Saudi Arabia,Middle East
 1995,698.927,Saudi Arabia,Middle East
 2000,824.128,Saudi Arabia,Middle East
 2005,1123,Saudi Arabia,Middle East
 2010,1413,Saudi Arabia,Middle East
 2015,1542,Saudi Arabia,Middle East
+1990,295.778,Australia,ANZ
 1995,377.319,Australia,ANZ
 2000,504.077,Australia,ANZ
 2005,664.362,Australia,ANZ
 2010,865.883,Australia,ANZ
 2015,1102,Australia,ANZ
+1990,5963,USA,North America
 1995,7640,USA,North America
 2000,10252,USA,North America
 2005,13037,USA,North America
 2010,14992,USA,North America
 2015,18219,USA,North America
+1990,998.502,Brazil,South America
 1995,1311,Brazil,South America
 2000,1584,Brazil,South America
 2005,2045,Brazil,South America
 2010,2799,Brazil,South America
 2015,3015,Brazil,South America
+1990,1543,Germany,Europe
 1995,1921,Germany,Europe
 2000,2237,Germany,Europe
 2005,2622,Germany,Europe
